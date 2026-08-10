@@ -6,7 +6,7 @@ Ogni oggetto che possiedi porta dentro il lavoro di qualcuno — fatto, scelto, 
 
 LA PROVA è una performance teatrale (Slow Theatre) costruita su quest'idea. Nessun esperto decide cosa conta. Nessun prezzo è fisso. Quello che porti, quello che scambi, e quello che prometti sono tutto lo spettacolo — e lo spettacolo intero è arte.
 
-Non ci sono attori né battute da recitare: le persone che vedi sono se stesse, non personaggi. La Prova si svolge all'aperto, usando un furgone che fa parte della scena — un elemento scenico, e il fulcro della performance.
+Non ci sono attori né battute da recitare: le persone che vedi sono se stesse, non personaggi. La Prova si svolge all'aperto, attorno a un furgone che funge al contempo da elemento scenico, infrastruttura logistica e fulcro dell'azione.
 
 ---
 
@@ -35,11 +35,11 @@ in scena come arte, non annunciati come performance. Niente qui
 segnala che sta accadendo qualcosa di insolito.*
 
 *L'allestimento: un semplice tavolo da mercatino. Oggetti disposti
-insieme, ordinari, come sarebbero in qualsiasi svuota cantina.
+insieme, ordinari, come sarebbero in qualsiasi svuota-cantina.
 Nessun isolamento, nessuna elevazione, nessuna cornice attorno a
 nulla.*
 
-**Soglia bassa.** Non serve altro che arrivare. Nessuna convinzione,
+**Soglia d'accesso bassa.** Non serve altro che arrivare. Nessuna convinzione,
 nessuna comprensione di come funziona, nessun impegno. Una persona può
 entrare, comprare o prendere qualcosa, e andarsene avendo preso
 parte al pezzo senza mai sapere che avesse un nome.
@@ -120,7 +120,7 @@ gesso, un primo esempio, chiaramente segnato come tale:*
 cosa, entro quando, testimoniato da chi — senza che nessuno la
 spieghi a voce.*
 
-**Soglia bassa — la più bassa delle tre.** Questo atto chiede solo
+**Soglia d'accesso bassa — la più bassa delle tre.** Questo atto chiede solo
 parole. Non serve un oggetto, non serve denaro, non serve una carta
 per prendere parte — solo la volontà di impegnarsi a qualcosa non
 ancora fatto.
