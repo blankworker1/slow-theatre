@@ -234,4 +234,4 @@ satisfies a word given last time, a debt is repaid in barter, a
 favour returned becomes someone else's offering at the house
 clearance.
 
-The performance ends where it began. La Prova is a prova.
+The performance ends where it began. La Prova is just a prova (rehearsal).
