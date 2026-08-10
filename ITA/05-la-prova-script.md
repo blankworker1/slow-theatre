@@ -198,7 +198,9 @@ che scrive le proprie battute ogni volta che viene messo in scena —
 una forma, non un copione nel senso convenzionale.
 
 Soglia d'accesso bassa: **Atto Primo**, **Atto Terzo** e **Atto
-Quarto**. La visione in azione: **Atto Secondo**.
+Quarto**. 
+
+La visione in azione: **Atto Secondo**.
 
 L'Atto Primo e il Secondo possono iniziare nel momento in cui
 qualcuno arriva — la soglia è così bassa che gli sconosciuti
@@ -213,8 +215,8 @@ pubblico più ampio capisca che può avere un posto anche lì.
 Tre regole arbitrarie hanno governato l'intero pezzo, facendo
 silenziosamente ciò che nessun esperto fa più:
 - ogni artefatto deve essere **trasportabile**
-- il valore si fissa **solo per scambio**, mai con un prezzo fisso
-- e dall'Atto Secondo in poi, l'artefatto viene **esposto come
+- il valore del artifatto si fissa **solo per scambio**, mai con un prezzo fisso
+- dall'Atto Secondo in poi, l'artefatto viene **esposto come
   arte** — è la messa in scena da sola a portare il segnale, senza
   bisogno di dire nulla.
 
@@ -226,6 +228,6 @@ Ciò che è stato promesso nell'Atto Terzo viene consegnato da qualche
 parte nell'Atto Primo o Secondo della performance successiva — un
 oggetto appare che soddisfa la parola data l'ultima volta, un debito
 viene ripagato in baratto, un favore restituito diventa l'offerta di
-qualcun altro allo svuota cantina.
+qualcun altro allo svuota-cantina.
 
 La performance finisce dove è iniziata. La Prova è una prova.
