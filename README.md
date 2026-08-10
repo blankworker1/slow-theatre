@@ -11,8 +11,7 @@ It proposes patient, local, recurring performance — grown slowly,
 belonging to a specific place, with no branding, no gatekeepers, and
 no pressure to scale or resolve.
 
-**La Prova** is the first Slow Theatre project: a four-act street
-performance built around barter, offered promises, and public trust,
+**La Prova** (the Rehearsal or Test) is the first Slow Theatre project: a four-act street performance built around barter, offered promises, and public trust,
 staged from the back of a truck in a piazza. It doesn't require
 anyone to understand or agree with any theory in advance — showing
 up is enough.
