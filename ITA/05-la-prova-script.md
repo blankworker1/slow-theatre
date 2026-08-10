@@ -228,4 +228,4 @@ oggetto appare che soddisfa la parola data l'ultima volta, un debito
 viene ripagato in baratto, un favore restituito diventa l'offerta di
 qualcun altro allo svuota cantina.
 
-La performance finisce dove è iniziata.
+La performance finisce dove è iniziata. La Prova è una prova.
