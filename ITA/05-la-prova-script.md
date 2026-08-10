@@ -11,8 +11,6 @@ Non ci sono attori né battute da recitare: le persone che vedi sono se stesse, 
 ---
 
 ## CAST DEI RUOLI
-*(non persone — ruoli, presi e lasciati liberamente, spesso dalla
-stessa persona nel corso di un'unica performance)*
 
 - **IL PROPRIETARIO** — detiene qualcosa al momento; desidera
   scambiarlo
@@ -69,7 +67,7 @@ Dove il tavolo dell'Atto Primo teneva gli
 oggetti insieme, ordinari, l'Atto Secondo li separa — quadri
 incorniciati su cavalletti, sculture e oggetti sollevati su
 piedistalli, ciascuno col proprio spazio. Nessuna etichetta lo
-spiega. Non ne serve nessuna. L'isolamento stesso è il segnale — la
+spiega. L'isolamento stesso è il segnale — la
 stessa grammatica visiva che usa una galleria, presa in prestito qui
 senza una galleria dietro. Nessuno ha curato ciò che sta sul
 piedistallo. Il piedistallo da solo fa ciò che altrimenti spetterebbe
