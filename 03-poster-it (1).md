@@ -10,8 +10,4 @@ Porta qualcosa. Scambia qualcosa. Partecipi?
 
 ---
 
-**DOVE**
-
-**[ QR CODE → Gruppo WhatsApp ]**
-
-**QUANDO**
+**DOVE**.   **[ QR CODE → Gruppo WhatsApp ]**.  **QUANDO**
