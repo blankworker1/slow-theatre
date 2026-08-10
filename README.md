@@ -38,7 +38,7 @@ the idea to standing at the truck.
    Poster copy distilling why/what, how, and when — includes a
    pointer to the WhatsApp group used to share dates and places.(Work in Progress)
 
-4. **[`04-roleplay-en.md`](04-roleplay-en.md)** — *What "acting" means
+4. **[`04-roleplay.md`](04-roleplay.md)** — *What "acting" means
    here.* Explains participation through three reference points —
    traditional acting, method acting, reality TV — and how Slow
    Theatre borrows from each while adding something all three lack:
