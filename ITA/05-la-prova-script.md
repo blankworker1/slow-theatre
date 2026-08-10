@@ -215,7 +215,7 @@ pubblico più ampio capisca che può avere un posto anche lì.
 Tre regole arbitrarie hanno governato l'intero pezzo, facendo
 silenziosamente ciò che nessun esperto fa più:
 - ogni artefatto deve essere **trasportabile**
-- il valore del artifatto si fissa **solo per scambio**, mai con un prezzo fisso
+- il valore dell'artefatto si fissa **solo per scambio**, mai con un prezzo fisso
 - dall'Atto Secondo in poi, l'artefatto viene **esposto come
   arte** — è la messa in scena da sola a portare il segnale, senza
   bisogno di dire nulla.
