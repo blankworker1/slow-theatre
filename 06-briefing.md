@@ -1,6 +1,6 @@
 # Briefing: The Slow Movement Landscape, and Where Slow Theatre Sits
 
-*Internal reference document — positioning research, not participant-facing*
+*Internal reference document*
 
 ---
 
