@@ -65,14 +65,17 @@ Tested individually against Slow Food's actual definitions, not just against the
 
 - **Good** — *analogical, not literal.*
 Slow Food: judged by direct sensory experience (does it taste good), rooted in biodiversity and traditional technique.
+
 Slow Theatre: judged by what it feels like to be in the room, not production values or press coverage. This is closer to Slow Cinema's aesthetic of duration than to Slow Food's objective quality standards — but it serves the same function (experience over external validation).
 
 - **Fair** — *solid, and the best-argued of the three.*
 Slow Food: producers fairly compensated, value set through direct relationship rather than an external market authority.
+
 Slow Theatre: barter with no money as third-party price-setter — two people establish value together. The mechanism is structurally identical: removing intermediaries from the exchange.
 
 - **Clean** — *a genuine reinterpretation, stronger than Cittaslow's.*
 Slow Food: produced without harming the environment, animal welfare, or human health — specifically about physical production process.
+
 Slow Theatre: no sponsor, no hidden commercial agenda, no extraction from participants — enacted through barter-only exchange and zero external revenue.
 
 **Why the "Clean" stretch holds up:** Cittaslow made the identical move. Its own "Clean" isn't about pesticides — it's environmental policy, heritage preservation, quality-of-life planning for a town. The word already survived one domain jump (food → city) by keeping its *spirit* (don't harm the thing you depend on) while losing its literal content (no chemical inputs). 
@@ -89,7 +92,7 @@ Slow Theatre's redefinition is actually *tighter* than Cittaslow's: barter (no t
 
 **Street theatre festivals (Aurillac, Mercantia):** Share scale, location, and European lineage, but reject the festival model. Aurillac and Mercantia are annual events with imported talent, grant funding, and ticketed or sponsored revenue. Slow Theatre is recurring, local-capital-only, and non-monetary.
 
-**"Participatory theatre":** Slow Theatre isn't just "accessible theatre" (democratizing a form) but "alternative theatre" (replacing a system's logic: no box office, no season, no closure.
+**"Participatory theatre":** Slow Theatre isn't just "accessible theatre" (democratizing a form) but "alternative theatre" (replacing a system's logic: no box office, no season, no closure).
 
 ---
 
