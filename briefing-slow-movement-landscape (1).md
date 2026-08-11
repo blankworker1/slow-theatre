@@ -106,7 +106,7 @@ Two real, small-town, street-theatre-specific cases that prove the model — and
 
 - **Mercantia, Certaldo** (Tuscany, Italy) — Italy's leading street theatre festival, now in its 38th year, in a small medieval hilltop town; ~60,000 visitors, ~500 street artists, ~90 companies over five days. **Precedent for:** Italian piazza setting, medieval town as stage, street theatre as cultural institution.
 
-**Difference from Slow Theatre:** a single annual gathering with professional touring companies, not a frequent, undated, participant-driven recurrence.*
+**Difference from Slow Theatre:** a single annual gathering with professional touring companies, not a frequent, undated, participant-driven recurrence.
 
 Both prove street theatre can anchor local culture without major cities. Neither proves the Slow Theatre model — non-monetary, recurring, participant-as-performer — which remains the specific innovation.
 
