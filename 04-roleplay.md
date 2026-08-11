@@ -26,7 +26,7 @@ What reality TV gets right: no pretending, no becoming someone else, nothing to 
 
 Slow Theatre takes reality TV's honesty and gives it back traditional theatre's release.
 
-**You are not playing a character.** There are no lines to learn and nothing to become. You bring your actual name, your actual reasoning, your actual reluctance or enthusiasm. In Act 1, if you're selling something, it's really yours and you really want to part with it or you don't. The roles — seller, witness, artist — are frames placed around a real person, not masks replacing one.
+**You are not playing a character.** There are no lines to learn and nothing to become. You bring your actual name, your actual reasoning, your actual reluctance or enthusiasm. If you're exchanging something, it's really yours and you really want to part with it or you don't. The roles — seller, witness, artist — are frames placed around a real person, not masks replacing one.
 
 **The premise is constructed on purpose, and that's fine to know.** Unlike traditional acting, there's nothing to convincingly perform. Unlike invisible theatre (which some parts of la prova borrow from for outside observers), participants themselves are let in on the frame — you know a situation has been set up, the same way a reality show's cast knows the house is a set. What you do inside it is still genuinely yours.
 
