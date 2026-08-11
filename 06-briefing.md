@@ -1,4 +1,4 @@
-# Briefing: The Slow Movement Landscape, and Where Slow Theatre Sits
+# Briefing Paper: The Slow Movement Landscape, and Where Slow Theatre Sits
 
 *Internal reference document*
 
