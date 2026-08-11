@@ -102,11 +102,11 @@ Two real, small-town, street-theatre-specific cases that prove the model — and
 
 - **Aurillac, France** (est. 1986) — deliberately located in a small, otherwise unremarkable rural town; grew from six theatre companies to over 600, and 100,000+ spectators over four days each August. The world's largest street arts gathering, run by ÉCLAT, the National Centre for Street Arts. **Precedent for:** scale, location, European street theatre tradition.
 
-*Difference from Slow Theatre: an annual festival with imported companies from outside the town, not a recurring local structure. [NOTE: whether Aurillac's programme is ticketed needs verifying before this claim is used publicly — the festival is known to run both a curated paid strand and a large free public strand, and conflating them risks a checkable error.]*
+**Difference from Slow Theatre:** an annual festival with imported companies from outside the town, not a recurring local structure.
 
 - **Mercantia, Certaldo** (Tuscany, Italy) — Italy's leading street theatre festival, now in its 38th year, in a small medieval hilltop town; ~60,000 visitors, ~500 street artists, ~90 companies over five days. **Precedent for:** Italian piazza setting, medieval town as stage, street theatre as cultural institution.
 
-*Difference from Slow Theatre: a single annual gathering with professional touring companies, not a frequent, undated, participant-driven recurrence.*
+**Difference from Slow Theatre:** a single annual gathering with professional touring companies, not a frequent, undated, participant-driven recurrence.*
 
 Both prove street theatre can anchor local culture without major cities. Neither proves the Slow Theatre model — non-monetary, recurring, participant-as-performer — which remains the specific innovation.
 
