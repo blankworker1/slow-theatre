@@ -31,7 +31,7 @@ A performance judged by how it feels to be *inside* it — the quality of attent
 No hidden commercial agenda, no extraction from participants, no gatekeepers deciding who is allowed to take part. Nothing here is branded, sold, or built to generate a return for someone standing outside the work. What happens belongs to the people in the room.
 
 ### Fair
-Everyone present has equal standing. The line between performer and audience is deliberately blurred — not erased by force, but left open enough that anyone can step from watching into acting, and back again, without permission being asked or granted. The work is fair to *place*, too: it uses what is actually local — local stories, local disputes, local material — rather than touring in something that could have happened anywhere.
+Everyone present has equal standing. The line between performer and audience is deliberately blurred — not erased by force, but left open enough that anyone can step from watching into acting, and back again, without permission being asked or granted. The work is fair to *place*, too: it uses what is actually local — local stories, local people, local material — rather than something that could have happened anywhere.
 
 ---
 
