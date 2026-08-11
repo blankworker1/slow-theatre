@@ -39,9 +39,9 @@ the idea to standing at the truck.
    pointer to the WhatsApp group used to share dates and places.(Work in Progress)
 
 4. **[`04-roleplay.md`](04-roleplay.md)** — *What "acting" means
-   here.* Explains participation through three reference points —
-   traditional acting, method acting, reality TV — and how Slow
-   Theatre borrows from each while adding something all three lack:
+   here.* Explains participation through four reference points —
+   traditional acting, method acting, reality TV, invisible theatre — and how Slow
+   Theatre borrows from each while adding something all four lack:
    a shared, visible closing moment (the toast, "Il Brindisi").
 
 5. **[`05-la-prova-script.md`](05-la-prova-script.md)** —
@@ -100,10 +100,10 @@ davanti al furgone.
    riferimento al gruppo WhatsApp usato per condividere date e luoghi.
 
 4. **[`04-roleplay-it.md`](ITA/04-roleplay.md)** — *Cosa significa
-   "recitare" qui.* Spiega la partecipazione attraverso tre punti di
+   "recitare" qui.* Spiega la partecipazione attraverso quattro punti di
    riferimento — la recitazione tradizionale, il Metodo, il reality
-   TV — e come lo Slow Theatre prenda in prestito da ciascuno pur
-   mantenendo qualcosa che a tutti e tre manca: un momento di
+   TV, theatro invisibile — e come lo Slow Theatre prenda in prestito da ciascuno pur
+   mantenendo qualcosa che a tutti e quattro manca: un momento di
    chiusura condiviso e visibile (il brindisi, "Il Brindisi").
 
 5. **[`05-la-prova-script-it.md`](ITA/05-la-prova-script.md)** —
