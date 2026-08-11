@@ -64,16 +64,19 @@ No other initiative has applied the literal phrase to a creative or performance 
 Tested individually against Slow Food's actual definitions, not just against the general "spirit" of the movement:
 
 - **Good** — *analogical, not literal.*
+
 Slow Food: judged by direct sensory experience (does it taste good), rooted in biodiversity and traditional technique.
 
 Slow Theatre: judged by what it feels like to be in the room, not production values or press coverage. This is closer to Slow Cinema's aesthetic of duration than to Slow Food's objective quality standards — but it serves the same function (experience over external validation).
 
 - **Fair** — *solid, and the best-argued of the three.*
+
 Slow Food: producers fairly compensated, value set through direct relationship rather than an external market authority.
 
 Slow Theatre: barter with no money as third-party price-setter — two people establish value together. The mechanism is structurally identical: removing intermediaries from the exchange.
 
 - **Clean** — *a genuine reinterpretation, stronger than Cittaslow's.*
+
 Slow Food: produced without harming the environment, animal welfare, or human health — specifically about physical production process.
 
 Slow Theatre: no sponsor, no hidden commercial agenda, no extraction from participants — enacted through barter-only exchange and zero external revenue.
@@ -86,7 +89,7 @@ Slow Theatre's redefinition is actually *tighter* than Cittaslow's: barter (no t
 
 ## 5. How Slow Theatre differs from obvious comparisons
 
-**Slow Cinema:** Shares temporal duration, but adds structural economic critique. Slow Cinema is about aesthetic experience; Slow Theatre is about alternative exchange mechanisms.
+**Slow Cinema:** Shares temporal duration, but adds structural economic critique. Slow Cinema is about aesthetic experience; Slow Theatre is about alternative behavioral patterns and exchange mechanisms.
 
 **Invisible Theatre (Boal):** Shares public space and blurring performer/audience, but adds recurrence and barter. Boal's theatre is intervention; Slow Theatre is cultivation — the same soil tilled repeatedly.
 
@@ -100,9 +103,13 @@ Slow Theatre's redefinition is actually *tighter* than Cittaslow's: barter (no t
 
 Two real, small-town, street-theatre-specific cases that prove the model — and clarify how Slow Theatre differs:
 
-- **Aurillac, France** (est. 1986) — deliberately located in a small, otherwise unremarkable rural town; grew from six theatre companies to over 600, and 100,000+ spectators over four days each August. The world's largest street arts gathering, run by ÉCLAT, the National Centre for Street Arts. **Precedent for:** scale, location, European street theatre tradition. **Difference from Slow Theatre:** annual festival model, imported talent, conventional funding.
+- **Aurillac, France** (est. 1986) — deliberately located in a small, otherwise unremarkable rural town; grew from six theatre companies to over 600, and 100,000+ spectators over four days each August. The world's largest street arts gathering, run by ÉCLAT, the National Centre for Street Arts. **Precedent for:** scale, location, European street theatre tradition.
 
-- **Mercantia, Certaldo** (Tuscany, Italy) — Italy's leading street theatre festival, now in its 38th year, in a small medieval hilltop town; ~60,000 visitors, ~500 street artists, ~90 companies over five days. **Precedent for:** Italian piazza setting, medieval town as stage, street theatre as cultural institution. **Difference from Slow Theatre:** ticketed entry, sponsored, professional companies, one-time event rather than recurring structure.
+**Difference from Slow Theatre:** annual festival model, imported talent, conventional funding.
+
+- **Mercantia, Certaldo** (Tuscany, Italy) — Italy's leading street theatre festival, now in its 38th year, in a small medieval hilltop town; ~60,000 visitors, ~500 street artists, ~90 companies over five days. **Precedent for:** Italian piazza setting, medieval town as stage, street theatre as cultural institution.
+
+**Difference from Slow Theatre:** ticketed entry, sponsored, professional companies, one-time event rather than recurring structure.
 
 Both prove street theatre can anchor local culture without major cities. Neither proves the Slow Theatre model — non-monetary, recurring, participant-as-performer — which remains the specific innovation.
 
