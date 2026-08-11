@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This briefing exists to answer one question cleanly, for use in pitches, press conversations, or funding applications: **is Slow Theatre's use of Slow Food's language and framework defensible, or is it just borrowing a trendy name?** Short answer: defensible, with one honest caveat worth knowing in advance rather than being caught out by later.
+This briefing exists to answer one question cleanly: **is Slow Theatre's use of Slow Food's language and framework defensible, or is it just borrowing a trendy name?** Short answer: defensible, with one honest caveat worth knowing in advance rather than being caught out by later.
 
 ---
 
@@ -31,29 +31,42 @@ Slow Reading, Slow Gardening, Slow Cinema, Slow Art (Slow Art Day — spend long
 
 **Ambiguous:** Slow Travel has some economic dimension (staying longer supports local businesses) but is rarely articulated as a structural critique — mostly sold as an experience of pace.
 
-**Where Slow Theatre sits:** in the small principle-based camp, not the crowded tempo-only one. This matters for how the pitch is framed — "part of the Slow movement" undersells it; "part of the small group that built an actual alternative system, the way Slow Food did" is the accurate and stronger claim.
+**Where Slow Theatre sits:** in the small principle-based camp, not the crowded tempo-only one. This "part of the Slow movement" undersells it; "part of the small group that built an actual alternative system, the way Slow Food did" is the accurate and stronger claim.
 
 ## 3. Who actually uses the phrase "Good, Clean, Fair"
 
-This turned out to be the sharpest finding, and it's narrower than the principle-based list above:
+This results of this question are only one other initiative:
 
 - **Cittaslow** is the *only* other initiative that directly reuses the literal three-word phrase — and only because it was co-founded (Paolo Saturnini, Orvieto) with Carlo Petrini's direct, immediate support. It inherited the language, not just the spirit.
+
+Although two other initiatives reference Slow Food, they do not use the core phrase.
+
 - **Slow Money** does not use the phrase. Its own vocabulary is "patient capital," "nurture capital," soil fertility as the real return.
+  
 - **Slow Fashion** does not use the phrase either, despite covering similar ethical/economic ground.
 
-**Conclusion:** Slow Theatre reusing "Good, Clean, Fair" verbatim is a genuinely rare move — closer to what Cittaslow did (direct inheritance) than what Money or Fashion did (parallel language, same spirit). No other initiative has applied the literal phrase to a creative or performance domain. This is open ground, not an imitation.
+**Conclusion:** Slow Theatre reusing "Good, Clean, Fair" verbatim is a genuinely rare move — closer to what Cittaslow did (direct inheritance) than what Money or Fashion did (parallel language, same spirit). 
+
+No other initiative has applied the literal phrase to a creative or performance domain. This is open ground, not an imitation.
 
 ## 4. Stress-testing Slow Theatre's own use of the three words
 
 Tested individually against Slow Food's actual definitions, not just against the general "spirit" of the movement:
 
-- **Good** — *solid.* Slow Food: judged by direct sensory experience (does it taste good), not institutional approval. Slow Theatre: judged by what it feels like to be in the room, not production values or press coverage. Same kind of claim — experience over external validation.
+- **Good** — *solid.*
+Slow Food: judged by direct sensory experience (does it taste good), not institutional approval.
+Slow Theatre: judged by what it feels like to be in the room, not production values or press coverage. Same kind of claim — experience over external validation.
 
-- **Fair** — *solid, and the best-argued of the three.* Slow Food: producers fairly compensated, value set through direct relationship rather than an external market authority. Slow Theatre: barter with no money as third-party price-setter — two people establish value together. This isn't a metaphor for Slow Food's "Fair," it's the same mechanism applied to a different exchange.
+- **Fair** — *solid, and the best-argued of the three.*
+Slow Food: producers fairly compensated, value set through direct relationship rather than an external market authority.
+Slow Theatre: barter with no money as third-party price-setter — two people establish value together. This isn't a metaphor for Slow Food's "Fair," it's the same mechanism applied to a different exchange.
 
-- **Clean** — *a genuine reinterpretation, not a literal transplant, and worth being upfront about.* Slow Food: produced without harming the environment, animal welfare, or human health — specifically about physical production process. Slow Theatre: no sponsor, no hidden commercial agenda, no extraction from participants — closer to what Slow Food's own "Fair" already covers than to what "Clean" originally means.
+- **Clean** — *a genuine reinterpretation, not a literal transplant.*
+Slow Food: produced without harming the environment, animal welfare, or human health — specifically about physical production process.
+Slow Theatre: no sponsor, no hidden commercial agenda, no extraction from participants — closer to what Slow Food's own "Fair" already covers than to what "Clean" originally means.
 
-**Why the "Clean" stretch still holds up:** Cittaslow already made the identical move. Its own "Clean" isn't about pesticides — it's environmental policy, heritage preservation, quality-of-life planning for a town. The word already survived one domain jump (food → city) by keeping its *spirit* (don't harm the thing you depend on) while losing its literal content (no chemical inputs). Slow Theatre's redefinition of "Clean" as "no hidden commercial interest" is the same kind of legitimate stretch, not an invented one.
+**Why the "Clean" stretch still holds up:** Cittaslow already made the identical move. Its own "Clean" isn't about pesticides — it's environmental policy, heritage preservation, quality-of-life planning for a town. The word already survived one domain jump (food → city) by keeping its *spirit* (don't harm the thing you depend on) while losing its literal content (no chemical inputs). 
+Slow Theatre's redefinition of "Clean" as "no hidden commercial interest" is the same kind of legitimate stretch, not an invented one.
 
 ## 5. The honest one-line answer, if asked directly
 
@@ -61,15 +74,10 @@ Tested individually against Slow Food's actual definitions, not just against the
 
 This is a stronger answer than claiming a perfect three-for-three match, because it demonstrates the claim was actually tested, not just assumed.
 
-## 6. Comparable precedent for the regeneration ambition
+## 6. Comparable precedents 
 
-Two real, small-town, street-theatre-specific cases worth having on hand:
+Two real, small-town, street-theatre-specific cases:
 
 - **Aurillac, France** (est. 1986) — deliberately located in a small, otherwise unremarkable rural town; grew from six theatre companies to over 600, and 100,000+ spectators over four days each August. The world's largest street arts gathering, run by ÉCLAT, the National Centre for Street Arts.
+
 - **Mercantia, Certaldo** (Tuscany, Italy) — Italy's leading street theatre festival, now in its 38th year, in a small medieval hilltop town; ~60,000 visitors, ~500 street artists, ~90 companies over five days.
-
-Neither launched inside a formal municipal "regeneration strategy" — both became one, over decades, through track record. This is the precedent for Slow Theatre's own position on Bosa: not claiming an existing strategy, but positioned to become the reason one gets written.
-
----
-
-*Related: [[bosa]], [[art-work]], [[aria-acqua]] — see /areas/slow-theatre.md for the full project history.*
