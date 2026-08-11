@@ -14,7 +14,7 @@ chosen, repaired, kept, or let go. It doesn't need a gallery, a
 critic, or a price to tell you that work was done. It's already
 there.
 
-LA PROVA is a piece of theatre (Slow Theatre) built on this idea. No
+LA PROVA is the first piece of Slow Theatre built on this idea. No
 expert decides what counts. No price is fixed. What you bring, what
 you exchange, and what you promise are the whole show — and the
 whole show is art.
@@ -204,8 +204,9 @@ What you've just read are staging notes for a piece that writes its
 own lines every time it's performed — a form, not a script in the
 conventional sense.
 
-Low threshold: **Act One**, **Act Three**, and **Act Four**. The
-vision in action: **Act Two**.
+Low threshold: **Act One**, **Act Three**, and **Act Four**. 
+
+The vision in action: **Act Two**.
 
 Act One and Act Two can begin the moment someone arrives — the
 threshold is so low that strangers step into their roles without
