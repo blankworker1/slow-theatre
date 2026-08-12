@@ -6,7 +6,7 @@
 
 ## What kind of piece this is
 
-The Long Game is staged as a fictional public meeting, performed as **invisible theatre**: bystanders are not told in advance that they're watching a performance. Locals will recognize that the "mayor" is not the real mayor — for them, the fiction is transparent from the start, and the pleasure/discomfort is in watching real local tensions performed back at them. For tourists and outsiders, the meeting reads as real for as long as the piece allows it to.
+The Long Game is staged as a fictional public meeting, performed as **invisible theatre** and **method acting**: bystanders are not told in advance that they're watching a performance. Locals will recognize that the "mayor" is not the real mayor — for them, the fiction is transparent from the start, and the pleasure/discomfort is in watching real local tensions performed back at them. For tourists and outsiders, the meeting reads as real for as long as the piece allows it to.
 
 The subject matter is a real, live local issue (most likely a wind farm), but the specific topic is deliberately withheld from publicity beforehand — exactly as a real public meeting works. Nobody arrives already knowing what's on the agenda.
 
