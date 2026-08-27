@@ -76,7 +76,7 @@ with whatever she'd got, and nobody remotely concerned that the
 whole evening might not have amounted to much by anybody else's
 count.
 
-On the bench by the fountain sat an old man, there before I arrived
+On the bench by the fountain sat another old man, there before I arrived
 and still there when I left. He hadn't bought anything, hadn't
 traded anything, hadn't so much as glanced at the blackboard. He'd
 simply watched the square do whatever it was going to do that
