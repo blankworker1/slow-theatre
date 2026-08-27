@@ -1,6 +1,6 @@
 # The Remembrancer
 
-*A role of Slow Theatre. First among the satellite roles, and the one through which the work outlives its own performances.*
+*A Slow Theatre character role. First among the satellite roles, and the one through which the work outlives its own performances.*
 
 ---
 
