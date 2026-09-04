@@ -35,7 +35,7 @@ Everyone present has equal standing. The line between performer and audience is 
 
 ---
 
-## The Slow Money layer: how it grows
+## How it grows
 
 Slow Food is about *what* is made. Slow Money is about *how it's paid for and how it grows* — patiently, locally, without chasing scale for its own sake. Slow Theatre borrows this too:
 
