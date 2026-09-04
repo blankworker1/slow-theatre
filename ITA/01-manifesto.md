@@ -68,7 +68,7 @@ sarebbe potuto succedere ovunque.
 
 ---
 
-## Lo strato Slow Money: come cresce
+## Come cresce?
 
 Slow Food riguarda *cosa* viene fatto. Slow Money riguarda *come
 viene finanziato e come cresce* — con pazienza, localmente, senza
