@@ -35,16 +35,15 @@ same person over the course of one performance)*
 - **THE BARTERER** — in Act Two, offers something into an exchange
   and receives something in return; barter runs both ways at once,
   so one name covers both sides of it
-- **aspetta-tori** — present, watching; not passive. Its presence is
-  what gives a promise meaning, and its watching is already loaded,
-  coiled toward action nobody needs to invite
-- **THE WITNESS** — family, friend, neighbour; known to whoever is
-  promising, present or named
 - **THE PROMISOR** — offers a promise instead of an object, in Act
   Three; addressed to someone specific, not to whoever happens to be
   there
 - **THE PROMISEE** — the person a promise is made to; named, not
   anonymous the way Act One's taking is
+- **THE WITNESS** — family, friend, neighbour; known to whoever is
+  promising, present or named
+- **aspetta-tori** — the public who are present, watching; not passive. Their          presence is what gives a promise meaning, and its watching is already loaded,
+  coiled toward action nobody needs to invite
 
 *A note on aspetta-tori: Italian for "spectators" is spettatori; "to
 wait" is aspettare. The word sits deliberately between the two —
