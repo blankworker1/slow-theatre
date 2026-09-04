@@ -202,7 +202,7 @@ The performance closes with a toast.
 separating what came before from what comes after. The toast does
 something softer: it gives the prova the closure it needs, without
 declaring it finished with a clean cut. There is no more DONOR,
-BARTERER, WITNESS, aspetta-tori — only people drinking together from
+BARTERER, PROMISOR, PROMISEE, WITNESS, aspetta-tori — only people drinking together from
 the same bottle. No one is required to stay until the end; a
 performer can simply disappear, without announcing it.*
 
