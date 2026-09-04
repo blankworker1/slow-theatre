@@ -4,7 +4,7 @@
 
 FREMKT is a free market: a gathering where people give away secondhand items that would otherwise be thrown away. At floor level, no money changes hands — items are given freely, not bartered, which removes the friction of "what do I get for this?" (The gallery works differently — see Two economies below.)
 
-At the center of the market sits the **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a balloon-dog/balloon-rabbit performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is indoor art, made from rubbish, for display.
+At the side of the market sits the **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a balloon-dog/balloon-rabbit performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is indoor art, made from rubbish, for display.
 
 ## Core premise
 
