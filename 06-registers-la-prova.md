@@ -34,7 +34,7 @@ Silence is a valid, present voice — not an absence. A layer that doesn't show 
 
 A layer is in register if it is either:
 
-- **Silent and fixed** — a consistent, minimal presence (posture, position, absence of interaction) repeated without variation, like the Watcher; or
+- **Silent and fixed** — a consistent, minimal presence (posture, position, absence of interaction) repeated without variation; or
 - **Genuinely independent** — something already happening on its own terms, unconnected to La Prova, that simply happens to share place and the no-cash constraint.
 
 The failure mode sits between these two: a layer that is scripted enough to feel constructed, but connected enough to blur into La Prova's own mechanics. Anything drifting toward that middle needs to be pulled back toward one pole or the other — made more silent, or left more alone.
@@ -43,13 +43,16 @@ The failure mode sits between these two: a layer that is scripted enough to feel
 
 ## Debrief questions (after each performance day)
 
-Private, for Carl only. Not written up publicly, not shared.
-
 - Did any layer share the same space and time as an Act itself, rather than sitting alongside it?
+  
 - Did any layer's exchange involve cash, fixed pricing, or external valuation?
+  
 - Did two layers brush against each other in a way that read as coincidence, or in a way that read as staged?
+  
 - Did an unconnected layer accidentally appear scripted — or did a deliberate layer accidentally appear too loose, too "real," in a way that risked confusion rather than depth?
+  
 - Did silence (a layer's absence) get treated as a gap that needed filling, by anyone?
+  
 - Is there a layer currently occupying a register that La Prova itself needs?
 
 ---
