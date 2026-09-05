@@ -18,17 +18,17 @@ The station is one of three linked zones: **drop-off** (where waste comes in), t
 
 ## Two economies
 
-FREMKT runs on two separate economic models, not one:
+This performance area runs on two separate economic models, not one:
 
 - **The floor — gift economy.** Rubbish dropped off by the public is raw material: free, first come first served, no strings attached. Objects here are simply branded or unbranded. Once something is dropped, the donor has let go of it — there is no reservation or claim-back system.
 - **The gallery — barter economy.** Art is never free. A finished piece can only be exchanged, never given away outright.
 
 ## How it works
 
-- **Drop-off** — the public brings waste to stands on the floor.
-- **Artist's own supply** — a good artist is expected to bring their own box of items to work with. The floor is not their primary material source.
+- **Drop-off** — the public brings waste to the drop-off area and is displayed on mats on the floor.
+- **Artist's own supply** — artists are expected to bring their own box of items to work with.
 - **Selection** — artists also pick raw material from the floor stands themselves, the way a performer gathers materials before working — anonymous, not tied to who donated what. The floor's role here is inspiration and random input, not the artist's main supply.
-- **Modify (Dremel)** — cutting, sanding, drilling, shaping pieces so they lose their "rubbish" silhouette and can fit together.
+- **Modify (Dremel)** — cutting, sanding, drilling, shaping pieces so they lose their "rubbish" silhouette and can be assembled together.
 - **Join (hot glue gun)** — fast assembly of multiple waste pieces into a single new object. Speed and visual effect matter more than structural permanence, since these are display pieces, not functional ones.
 - **Finish (paint + FREMKT stencil)** — the final step. Paint and the FREMKT stencil mark unify the piece and brand it as transformed — this is the moment waste becomes a finished artwork, and the moment it leaves the gift economy and enters the gallery's barter economy.
 
