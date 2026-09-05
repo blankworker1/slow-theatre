@@ -2,7 +2,7 @@
 
 ## Concept
 
-The **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a balloon-dog/balloon-rabbit performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is indoor art, made from rubbish, for display.
+The **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a street performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is art, made from rubbish, for display.
 
 At floor level, it is a gathering where people give away secondhand items that would otherwise be thrown away. No money changes hands — items are given freely, not bartered, which removes the friction of "what do I get for this?".
 
