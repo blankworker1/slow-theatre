@@ -1,10 +1,12 @@
-# FREMKT — The Transformation Station
+# The Transformation Station
 
 ## Concept
 
-FREMKT is a free market: a gathering where people give away secondhand items that would otherwise be thrown away. At floor level, no money changes hands — items are given freely, not bartered, which removes the friction of "what do I get for this?" (The gallery works differently — see Two economies below.)
+The **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a balloon-dog/balloon-rabbit performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is indoor art, made from rubbish, for display.
 
-At the side of the market sits the **Transformation Station** — a live performance area where artists turn donated waste into finished art pieces in front of an audience. It runs like a balloon-dog/balloon-rabbit performance: fast, visible, one item at a time, artist working — not a workshop, not a repair session, and not aimed at producing working objects. This is indoor art, made from rubbish, for display.
+At floor level, it is a gathering where people give away secondhand items that would otherwise be thrown away. No money changes hands — items are given freely, not bartered, which removes the friction of "what do I get for this?".
+
+The station is one of three linked zones: **drop-off** (where waste comes in), the **transformation station** (where the performance happens), and the **gallery** (where finished pieces go on display).
 
 ## Core premise
 
@@ -30,19 +32,17 @@ FREMKT runs on two separate economic models, not one:
 - **Join (hot glue gun)** — fast assembly of multiple waste pieces into a single new object. Speed and visual effect matter more than structural permanence, since these are display pieces, not functional ones.
 - **Finish (paint + FREMKT stencil)** — the final step. Paint and the FREMKT stencil mark unify the piece and brand it as transformed — this is the moment waste becomes a finished artwork, and the moment it leaves the gift economy and enters the gallery's barter economy.
 
-The station is one of three distinct zones: **drop-off** (where waste comes in), the **transformation station** (where the performance happens), and the **gallery** (where finished pieces go on display).
-
 ## The gallery
 
-Finished pieces move to the gallery as they're completed and stay on display until the end of the day. Barter can happen throughout the day, not just at closing.
+Finished pieces move to the Gallery area as they're completed and stay on display until the end of the day. Barter can happen throughout the day, not just at closing.
 
 - **Barter terms are entirely up to the artist** — there's no fixed currency. An artist might accept another artifact, a box of fruit, a bottle of wine, or a promise to bring something to the next market.
-- **Withdrawn from barter** — the artist or event organiser can pull a piece out of barter at any point while still keeping it on display in the gallery. A red sticker marks it as withdrawn (see Core premise) — the only visual difference between pieces in the gallery. Withdrawal lasts the rest of that day's market; whether the same piece is offered for barter again is a fresh decision at the next market.
+- **Withdrawn from barter** — the artist or event organiser can pull a piece out of barter at any point while still keeping it on display in the gallery. A **red sticker** marks it as withdrawn (see Core premise) — the only visual difference between pieces in the gallery. Withdrawal lasts the rest of that day's market; whether the same piece is offered for barter again is a fresh decision at the next market.
 - **Portfolio pieces** — artists are also encouraged to bring artifacts they made in the past to display in the gallery, giving visitors something to look at from the moment the market opens, before any live pieces are finished. Portfolio pieces carry no special status: they follow the same barter and red-sticker rules as anything made live that day, in keeping with the core premise that no piece outranks another.
 
-## The FREMKT mark
+## The FREMKT™ mark
 
-The identity is a **stencil**, chosen deliberately: a stencil is the actual physical tool used to brand objects at the station, so the logo and the process are the same object. It's built as a torn hangtag shape — a nod to the price tags these items are shedding — rendered in bold blocked stencil letterforms with real bridge gaps, the way a cut stencil would print.
+Every transformed object is given a new brand identity using a **stencil**, chosen deliberately: a stencil is the actual physical tool used to brand objects at the station, so the logo and the process are the same object. It's designed as as a rectangular hangtag shape — a nod to the price tags these items are shedding — rendered in bold blocked stencil letterforms with real bridge gaps, the way a cut stencil would print.
 
 ### Backronym motto
 
