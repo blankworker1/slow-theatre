@@ -1,11 +1,5 @@
 # La Prova - Script
 
-*A translator's note: La Prova is staged in Italian, in a rural
-Italian piazza — the painted signage, the chalk, and the words
-participants actually use on the day stay in Italian. This
-translation exists so the structure and reasoning can be read and
-understood in English; it isn't a version meant to be performed
-as written.*
 
 ## Premise
 
@@ -257,3 +251,12 @@ favour returned becomes someone else's offering at the house
 clearance.
 
 The performance ends where it began. La Prova is just a prova (rehearsal).
+
+---
+
+*Translator's note: La Prova is staged in Italian, in a rural
+Italian piazza — the painted signage, the chalk, and the words
+participants actually use on the day stay in Italian. This
+translation exists so the structure and reasoning can be read and
+understood in English; it isn't a version meant to be performed
+as written.*
