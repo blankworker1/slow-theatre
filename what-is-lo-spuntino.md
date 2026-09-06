@@ -24,12 +24,12 @@ everyone and no one at once.
 ## Not a gift, and not a trade
 
 It's tempting to call this generosity, but that's not quite right either.
-A gift still has a direction â€” someone gives, someone receives, and even
+A gift still has a direction  —  someone gives, someone receives, and even
 an anonymous gift is still *given to* somebody. An exchange needs two parties
 who agree, even loosely, on what something is worth. The spuntino table
 has neither. Nobody is giving to anybody, because nobody knows who's on
 the other end. Nobody is trading, because there's no other party to
-strike a value with. It isn't generosity aimed at a person â€” it's food
+strike a value with. It isn't generosity aimed at a person   — it's food
 placed into a commons, where giving and taking have been pulled apart
 from each other completely, so neither one depends on the other happening
 at all.
