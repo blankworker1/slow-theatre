@@ -1,8 +1,7 @@
 # La Prova — Allestimento
 
 Questo è un riferimento di allestimento: cosa va dove, e chi si occupa di
-cosa, quando un Nodo della comunità mette in scena La Prova. Non è il copione
-né il protocollo — è solo la disposizione pratica della performance e il
+cosa, quando un Nodo della comunità mette in scena La Prova (teatro di strada). Non è il copione né il protocollo — è solo la disposizione pratica della performance e il
 flusso degli oggetti che la attraversano.
 
 ## Il Performance 
