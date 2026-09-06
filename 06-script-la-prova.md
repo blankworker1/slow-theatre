@@ -9,10 +9,10 @@ as written.*
 
 ## Premise
 
-Every object you own carries someone's work inside it — made,
-chosen, repaired, kept, or let go. It doesn't need a gallery, a
+*Every object you own carries someone's work inside it — made,
+chosen, repaired, kept, or let go. It doesn't need a shop, gallery, a
 critic, or a price to tell you that work was done. It's already
-there.
+there.*
 
 La Prova is the first piece of Slow Theatre built on this idea. No
 expert decides what counts. No price is fixed. What you bring, what
