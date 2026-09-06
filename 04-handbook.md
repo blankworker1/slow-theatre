@@ -46,7 +46,7 @@ permission to exist. A Node exists the moment people perform.
 
 Slow Theatre's shared documents — the protocols, the scripts, the roles, this
 Handbook — live in one place: a public repository on GitHub
-(`blankworker1/art-work`). "Repository" just means a folder of documents with
+(`blankworker1/slow-theatre`). "Repository" just means a folder of documents with
 a history attached — every change, ever made, kept and dated.
 
 **Forking** means taking your own complete copy of that folder, under your
