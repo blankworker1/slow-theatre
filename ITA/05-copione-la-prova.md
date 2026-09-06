@@ -7,7 +7,7 @@ Ogni oggetto che possiedi porta dentro di sé il lavoro di qualcuno
 bisogno di una galleria, di un critico, o di un prezzo per dirti
 che quel lavoro è stato fatto. È già lì.
 
-La Prova è il primo pezzo di Slow Theatre costruito su questa idea.
+La Prova è il primo theatro di strada (Slow Theatre) costruito su questa idea.
 Nessun esperto decide cosa conta. Nessun prezzo è fissato. Ciò che
 porti, ciò che scambi, e ciò che prometti sono tutto lo spettacolo —
 e tutto lo spettacolo è arte.
