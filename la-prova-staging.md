@@ -9,9 +9,8 @@ practical layout of the performance and the object flow around it.
 ![Inside a Node: La Prova, four acts, the Transformation Station, and four satellite roles](./la-prova-staging-diagram.svg)
 
 Everything inside the dashed **aspetta-tori** boundary — the four acts — is
-the only part critical to a Node's function. A Node with no Station and none
-of the four roles below is still a complete, valid Node. The Transformation
-Station and the four roles are optional support, added as a Node grows into
+the only part critical to a La Prova's function. A performance with no Station and none 0of the four roles below is still a complete. The Transformation
+Station and the four roles are optional support, added as the performance grows into
 handling more material; nothing about La Prova depends on them existing.
 
 ## From unwanted item to its next life
