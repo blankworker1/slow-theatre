@@ -1,6 +1,6 @@
 # La Prova — Staging
 
-This is a staging reference: what goes where, and who handles what, when a
+This is a staging reference: what goes where, and who handles what, when a community 
 Node runs La Prova. It is not the script and not the protocol — just the
 practical layout of the performance and the object flow around it.
 
