@@ -58,7 +58,7 @@ tavolo, una coperta a terra. Gli oggetti sono disposti — non messi
 in scena come arte, non annunciati come performance. Niente qui
 segnala che sta accadendo qualcosa di insolito.*
 
-*L'allestimento: un semplice tavolo da mercatino. Oggetti disposti
+*L'allestimento:  Oggetti usato disposti
 insieme, ordinari, come sarebbero in qualsiasi svuota cantina.
 Nessun isolamento, nessuna elevazione, nessuna cornice attorno a
 nulla.*
@@ -72,7 +72,7 @@ IL DONATORE sta accanto a ciò che non tiene più. Non viene chiesto
 nulla in cambio — non denaro, non uno scambio, nemmeno un grazie.
 Chi lo prende decide, privatamente, a cosa serve: utile così com'è,
 materiale per l'Atto Secondo, o qualcosa da far proseguire altrove.
-Il tavolo non chiede e non ha bisogno di sapere.
+La bancarella non chiede e non ha bisogno di sapere.
 
 *La performance qui è invisibile a se stessa. Questo è corretto.
 Niente dovrebbe essere forzato nella visibilità prima del suo
