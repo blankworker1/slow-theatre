@@ -1,4 +1,4 @@
-# La Prova - script
+# La Prova - Script
 
 *A translator's note: La Prova is staged in Italian, in a rural
 Italian piazza — the painted signage, the chalk, and the words
@@ -14,7 +14,7 @@ chosen, repaired, kept, or let go. It doesn't need a gallery, a
 critic, or a price to tell you that work was done. It's already
 there.
 
-LA PROVA is the first piece of Slow Theatre built on this idea. No
+La Prova is the first piece of Slow Theatre built on this idea. No
 expert decides what counts. No price is fixed. What you bring, what
 you exchange, and what you promise are the whole show — and the
 whole show is art.
