@@ -1,4 +1,4 @@
-# LA PROVA
+# La Prova - script
 
 *A translator's note: La Prova is staged in Italian, in a rural
 Italian piazza — the painted signage, the chalk, and the words
