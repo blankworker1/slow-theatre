@@ -1,18 +1,18 @@
 # What is Lo Spuntino?
 
-Lo Spuntino is a shared table. Nothing more complicated than that.
+Lo Spuntino is the hospitality of a shared table. Nothing more complicated than that.
 
-*Spuntino* — a snack, a light informal meal — is already a familiar rural
+*Spuntino* — Italian for a snack, a light informal meal — is a familiar rural
 tradition: an outdoor gathering, food shared, no invitation needed beyond
-"come." Nobody has to explain what it is. It's simply the name for
+"come." Nobody needs to explain what it is. It's simply the name for
 something people already know how to do.
 
 ## How it works
 
 People bring food and drink and place it on the table. Others take from
 it. Nobody keeps track of whose bottle became whose glass, and nobody
-needs to. There's no pairing, no negotiation, no ledger — things appear,
-and get taken. That's the whole mechanism.
+needs to. There's no pairing, no menu, no payment — things appear,
+and get eaten. That's the whole mechanism.
 
 ## Why it matters
 
