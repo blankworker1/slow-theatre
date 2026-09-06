@@ -4,7 +4,7 @@
 
 *Ogni oggetto che possiedi porta dentro di sé il lavoro di qualcuno
 — fatto, scelto, riparato, tenuto, o lasciato andare. Non ha
-bisogno di un negozio, do una galleria, di un critico, o di un prezzo per dirti
+bisogno di un negozio, di una galleria, di un critico, o di un prezzo per dirti
 che quel lavoro è stato fatto. È già lì.*
 
 La Prova è il primo teatro di strada (Slow Theatre) costruito su questa idea.
