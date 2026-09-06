@@ -5,7 +5,7 @@ cosa, quando un Nodo della comunità mette in scena La Prova. Non è il copione
 né il protocollo — è solo la disposizione pratica della performance e il
 flusso degli oggetti che la attraversano.
 
-## Il Nodo
+## Il Performance 
 
 ![All'interno di un Nodo: La Prova, i quattro atti, la Stazione di Trasformazione e i quattro ruoli satellite](./la-prova-staging-diagram.svg)
 
