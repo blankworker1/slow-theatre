@@ -8,24 +8,31 @@ TAZ Tools is a software suite that turns a truck into a temporary, air-gapped di
 
 **BosaTAZ** is the first deployed instance: one server, running the full TAZ Tools suite, physically installed in the truck for the first rehearsals in Bosa.
 
-Each town or community that takes up Slow Theatre gets two matching digital presences, named the same way: **(location)Node** — its permanent, public GitHub fork — and **(location)TAZ** — its own running instance of TAZ Tools. Bosa is first on both counts: BosaNode is the origin repo's first fork, and BosaTAZ is the first TAZ Tools instance, named for the place the truck operates in, not for any single performance. "La Prova" is the name of the first theatrical performance itself, and stays separate from both — the performance happens inside the zone, but doesn't name it.
+Each town or community that takes up Slow Theatre gets two matching digital presences, named the same way: **(location)Node** — its permanent, public GitHub fork — and **(location)TAZ** — its own running instance of TAZ Tools. Bosa is first on both counts: BosaNode is the origin repo's first fork, and BosaTAZ is the first TAZ Tools instance, named for the place the truck operates in, not for any single performance.
 
 ## The core idea
 
-Slow Theatre already has a physical economy that needs no external gatekeeper — barter, conducted openly, witnessed or anonymous depending on the tier, requiring no bank, contract, or market to validate it. TAZ Tools is that same argument applied to a ledger instead of an object.
+Slow Theatre has a physical economy that needs no external gatekeeper — barter, conducted openly, witnessed or anonymous depending on the tier, requiring no bank, contract, or market to validate it. TAZ Tools is that same argument applied to a digital layer, instead of an object.
 
 A conventional digital record — a server on the internet, a chat app, a cloud archive — is legible to the state and to platforms by default: every transaction passes through a wire that someone else controls, logs, and can be compelled to hand over. TAZ Tools removes the wire. There is no connection to the wider internet at any point. The zone isn't hidden from outside observation — it's structurally not adjacent to anything that could observe it.
 
 This mirrors the distinction at the heart of barter's own legal standing: permuta was never illegal or secret, it simply never needed anyone's permission. TAZ Tools extends that same posture to the record of what happens inside the zone.
 
-Act 3 was originally conceived simply as the tier for what gift (Act 1) and barter (Act 2) couldn't hold cleanly — a promise rather than an object, and by nature an illegible one, since a promise has no settled form until it's kept. What's matured underneath it isn't a formal ledger at all, closer to a very well-documented handshake. A promise is valid the instant it's signed and posted — nothing further is required of the promisor for it to count as witnessed. What happens after that is a different party's concern entirely: the promisee is the only one with a stake in whether the promise is actually kept, and with no scribe, no arbiter, and no dedicated Witness role standing behind it, they're also the only one positioned to carry that weight. The seven layers of witnessing exist for exactly this asymmetry — not to compel anyone, but to give the promisee something to point to, socially, if a promise goes unkept: a signed note, a timestamp, a chalked board, a photograph, a public archive. Reputation was always barter's actual enforcement mechanism, long before permuta had a name in law; TAZ Tools just gives the promisee a far better trail to invoke it with.
+In the first Slow Theatre performance, La Prova Act 3 was originally conceived simply as the tier for what gift (Act 1) and barter (Act 2) couldn't hold cleanly — a promise rather than an object, and by nature an illegible one, since a promise has no settled form until it's kept. 
+A promise is valid the instant it's signed and posted — nothing further is required of the promisor for it to count as witnessed. What happens after that is a different party's concern entirely: the promisee is the only one with a stake in whether the promise is actually kept, and with no scribe, no arbiter, and no dedicated Witness role standing behind it, they're also the only one positioned to carry that weight. The layers of witnessing exist for exactly this asymmetry — not to compel anyone, but to give the promisee something to point to, socially, if a promise goes unkept: a signed note, a timestamp, a chalked board, a photograph, a public archive.
+
+Reputation was always barter's actual enforcement mechanism, long before permuta had a name in law. TAZ Tools just gives the promisee a far better trail to invoke it with.
 
 ## Physical design
 
-- **The server** lives inside the truck. It is never connected to the internet.
-- **The hotspot** it broadcasts is open and unencrypted — anyone in range can join, no password, no account.
+- **The server** lives inside the truck.
+  
+- **The hotspot** is open and unencrypted — anyone in range can join, no password, no account. It is never connected to the internet.
+
 - **There is no captive portal, landing page, or explanation.** The network's presence is its only announcement, the same way the truck's arrival announces the performance without anyone saying so. The SSID is simply "BosaTAZ" — if you know what it means, you connect; if you don't, it's just another network name.
+
 - **The zone's perimeter is the hotspot's range.** Not a piazza, not a comune, not any administrative boundary — whoever is connected is in the zone; whoever isn't, isn't. The boundary is binary and testable rather than rhetorical.
+
 - **The zone is invisible as a prop**, in the same sense the truck itself is a prop, a set piece, and the centerpiece of the performance all at once. It carries no separate branding or explanation beyond what the performance already provides.
 
 ## What the suite contains, and what each part maps to
@@ -42,13 +49,13 @@ The presence board and relay run entirely on infrastructure already built for NC
 **The offer's path, head to archive:**
 
 1. **Head → phone.** The offer is typed into BosaTAZ, named and signed, posted to the local relay. This is the moment it becomes valid — everything after this is publicity and record, not validation.
-2. **Phone → blackboard.** The Remembrancer sees it on the feed and chalks it onto the Act 3 lavagna — a slower, physical, public confirmation for anyone without a device in hand.
-3. **Phone → USB key.** The same relay event lands directly in the session's local archive, independent of whether it's ever chalked.
-4. **Blackboard → photo.** The chalked board is photographed — a different artifact from the relay note, not a duplicate of it: the note is the precise signed record, the photo is evidence of the performance of it.
+2.  **Phone → USB key.** The same relay event lands directly in the session's local archive, stored on a USB key, independent of whether it's ever chalked.
+3. **Phone → blackboard.** The Remembrancer sees it on the feed and chalks it onto the chalk board as part of Act 3 — a slower, physical, public confirmation for anyone without a device in hand.
+4. **Blackboard → photo.** The chalk board is photographed — a different artifact from the relay note, not a duplicate of it: the note is the precise signed record, the photo is evidence of the performance of it.
 5. **Photo → USB key.** The photo enters the same local archive as the note, on the same device, before anything leaves the truck.
-6. **USB key → BosaNode.** Both artifacts travel out together on the next periodic push, so the public archive carries the precise record and the textured, human one side by side.
+6. **USB key → Node GitHub.** Both artifacts travel out together on the next periodic push, so the public archive carries the precise record and the textured, human one side by side.
 
-A promise that's typed and signed but never chalked — because the Remembrancer hasn't reached it, or the session ends first — is still fully valid and still reaches BosaNode. The chalk-and-photo step enriches the record; it doesn't gate it.
+A promise that's typed and signed but never chalked — because the Remembrancer hasn't reached it, or the session ends first — is still fully valid and still reaches the Node GitHub. The chalk-and-photo step enriches the record; it doesn't gate it.
 
 ## Relationship to the GitHub layer
 
@@ -85,10 +92,12 @@ Every future community that adopts Slow Theatre follows the same pattern: a **(l
 
 1. **No scribe.** No third party — state, platform, or ISP — sits between two people making a promise inside the zone.
 2. **Offline-first, not offline-until-convenient.** The air gap is structural, not a temporary state that resolves the moment signal is available.
-3. **Presence, not permission.** Joining the network requires nothing — no account, no password, no explanation. The same ethos as the open barter table.
+3. **Presence, not permission.** Joining the network requires nothing — no account, no password, no explanation. The same ethos as the open gifting floor in Act 1.
 4. **Temporary by design.** The zone exists for as long as the truck is parked and the server is on. It does not try to persist, defend territory, or become an institution — matching La Prova's own refusal of a hard curtain.
 5. **One-way legibility.** What happens inside the zone is witnessed locally in real time; what reaches the outside world is a settled, immutable record, never a live feed.
-6. **Witnessing is distributed, not delegated.** A promise is confirmed by the relay signature, the timestamp, live visibility on the network, the Remembrancer's chalk act, the crowd at Act 3, the photograph, and the archive — seven independent, overlapping layers, none of them load-bearing alone. No single Witness role is needed, for the same reason no single mesh node is the zone and no wifi-reachable point controls the admin interface: a designated point of confirmation would be exactly the kind of bottleneck the rest of the design avoids.
+6. **Witnessing is distributed, not delegated.** A promise is confirmed by the relay signature, the timestamp, live visibility on the network, the Remembrancer's chalk act, the aspetta-tori at Act 3, the photograph, and the archive — seven independent, overlapping layers, none of them load-bearing alone.
+
+No single Witness role is needed, for the same reason no single mesh node is the zone and no wifi-reachable point controls the admin interface: a designated point of confirmation would be exactly the kind of bottleneck the rest of the design avoids.
 
 ## Interface notes for future build
 
@@ -96,4 +105,4 @@ Every future community that adopts Slow Theatre follows the same pattern: a **(l
 
 ## Open questions
 
-- Whether "TAZ Tools" itself needs a plainer or less software-suite-sounding name in future documentation, to avoid sitting against the project's resistance to permanence and institutional framing.
+- 
