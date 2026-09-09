@@ -37,20 +37,20 @@ performance.
 - **REMBERANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
 are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
 
-- **TRANSFORMER** — integral to every performance, present from the
+- **IL TRASFORMATORE** — integral to every performance, present from the
 start, but never load-bearing: the artists who transform the gifted objects in Act One into artworks displayed in the Gallery in Act Two. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
 performance scales up.
 
-- **BARMAN** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
+- **LA BARRISTA** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
 
 
 **Further satellite roles — optional, added as a performance grows
 into handling more material:**
 
-- **SEAMSTRESS** — mends and alters fabric and clothing specifically,
+- **LA SARTA** — mends and alters fabric and clothing specifically,
   feeding either Act Two or Il Commerciante depending on the piece
   
-- **TRADER** — takes functional, resaleable items off-stage
+- **IL COMMERCIANTE** — takes functional, resaleable items off-stage
   entirely, into an ordinary secondhand trade outside the
   performance's gift-and-barter logic
   
@@ -108,10 +108,9 @@ the piece without ever knowing it had a name.
 
 THE DONOR stands next to what they no longer wish to keep. Nothing is asked
 in return — not money, not a trade, not even thanks. Whoever takes
-it decides, privately, what it's for: useful as it is, material for a **TRANSFORMER**
-, used to make an artwork for Act Two, or something to pass on elsewhere.
+it decides, privately, what it's for: useful as it is, material for a **TRASFORMATORE**, used to make an artwork for Act Two, or something to pass on elsewhere.
 
-Alongside the mats , at its own workbench, a **TRANSFORMER** is working. What arrives at the mat as something unwanted can leave the workbench as something made — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
+Alongside the mats , at its own workbench, a **TRASFORMATORE** is working. What arrives at the mat as something unwanted can leave the workbench as something made — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
 
 *The performance here is invisible to itself. This is correct.
 Nothing should be forced into visibility before its moment.*
@@ -215,12 +214,12 @@ page to Act Four.
 bell sounds. No preparation is needed — it has already happened,
 quietly, alongside everything else.*
 
-A small bar: one chiller tap, one size of glass. The **BARMAN** fills each
+A small bar: one chiller tap, one size of glass. The **BARRISTA** fills each
 glass as people gather. For rehearsals, the tap pours cold water,
 not beer — this keeps the toast open to everyone present, children
 included.
 
-Once everyone holds a filled glass, the **BARMAN** offers the toast —
+Once everyone holds a filled glass, the **BARRISTA** offers the toast —
 the only performed vocal line in the entire day:
 
 > *"Saludu e Trigu."
@@ -229,7 +228,7 @@ The crowd follow with:
 
 > "A kent'annos."*
 
-For the adults, the barman then passes among the crowd offering to
+For the adults, the **BARRISTA** then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
 special days.
 
