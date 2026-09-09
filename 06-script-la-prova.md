@@ -34,14 +34,14 @@ performance.
 
 **Fixed roles named for a person, not a frame — present throughout, not passed between hands:**
 
-- **REMBERANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
+- **REMEMBRANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
 are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
 
 - **IL TRASFORMATORE** — integral to every performance, present from the
 start, but never load-bearing: the artists who transform the gifted objects in Act One into artworks displayed in the Gallery in Act Two. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
 performance scales up.
 
-- **LA BARRISTA** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
+- **IL BARRISTA** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
 
 
 **Further satellite roles — optional, added as a performance grows
@@ -107,9 +107,9 @@ the piece without ever knowing it had a name.
 
 THE DONOR stands next to what they no longer wish to keep. Nothing is asked
 in return — not money, not a trade, not even thanks. Whoever takes
-it decides, privately, what it's for: useful as it is, material for a **TRASFORMATORE**, used to make an artwork for Act Two, or something to pass on elsewhere.
+it decides, privately, what it's for: useful as it is, material for a Trasformatore, used to make an artwork for Act Two, or something to pass on elsewhere.
 
-Alongside the mats , at its own workbench, a **TRASFORMATORE** is working. What arrives at the mat as something unwanted can leave the workbench as something made — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
+Alongside the mats , at its own workbench, a Trasformatore is working. What arrives at the mat as something unwanted can leave the workbench as something made — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
 
 *The performance here is invisible to itself. This is correct.
 Nothing should be forced into visibility before its moment.*
@@ -162,7 +162,7 @@ nothing.*
 no announcement, no words. At the top, hand-painted, in the same
 lettering you'd use for a shop sign: **OFFERTE E FAVORI**
 ("Offers and Favours"). That's all that's painted —
-permanent, essential, with no explanation of why. Below it, written  in chalk by the **REMBRANCER**, is the first example, clearly marked as such. This is deliberate: the board is never in the hands of either party to what it records.*
+permanent, essential, with no explanation of why. Below it, written  in chalk by the Remembrancer, is the first example, clearly marked as such. This is deliberate: the board is never in the hands of either party to what it records.*
 
 > *EXAMPLE*
 > *Maria offers Luca: a basket of lemons, by the next prova.*
@@ -221,11 +221,11 @@ included.
 Once everyone holds a filled glass, the **BARRISTA** offers the toast —
 the only performed vocal line in the entire day:
 
-> *"Saludu e Trigu."
+> *"Saludu e Trigu."*
 
 The crowd follow with:
 
-> "A kent'annos."*
+> *"A kent'annos."*
 
 For the adults, the **BARRISTA** then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
