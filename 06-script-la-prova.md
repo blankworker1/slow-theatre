@@ -92,57 +92,40 @@ the moment the truck arrives.)*
 
 ## ACT ONE — THE SECONDHAND
 
-*Setting: ordinary. A front door, a driveway, a table, a blanket on
-the ground. Objects are laid out — not staged as art, not announced
-as performance. Nothing here signals that anything unusual is
-happening.*
+**Setting:** ordinary. A mat or blanket on the ground. Objects are laid out like a simple market stall — not staged as art, not announced as performance. Nothing here signals anything unusual is happening.*
 
-**Signal in:** the truck is driven in and parked — ambiguous, not a
+**Signal in:** the truck is driven into  position and parked — ambiguous, not a
 clear announcement, but recognised by the eaters as an expected
 event. The real signal is what follows: unloading and setup, visibly
 distinct from ordinary picnic-area activity. This is the moment
 eaters become aspetta-tori. No opt-in, no explanation offered.
 
-*The set-up: a simple market stall. Objects placed together,
-ordinary, the way they'd be at any house clearance. No isolation, no
-elevation, no frame around anything.*
 
 **Low threshold.** Nothing more than arriving is required. No
 conviction, no understanding of how it works, no commitment. A
 person can walk up, take something, and leave having taken part in
 the piece without ever knowing it had a name.
 
-THE DONOR stands next to what they no longer keep. Nothing is asked
+THE DONOR stands next to what they no longer wish to keep. Nothing is asked
 in return — not money, not a trade, not even thanks. Whoever takes
-it decides, privately, what it's for: useful as it is, material for
-Act Two, or something to pass on elsewhere. The table doesn't ask
-and doesn't need to know.
+it decides, privately, what it's for: useful as it is, material for a **TRANSFORMER**
+, used to make an artwork for Act Two, or something to pass on elsewhere.
 
-*Alongside the table, at its own bench, present from the very first
-performance and every one after — a second thing is happening at
-the same time, quietly, for anyone who wants to notice it: Il
-Trasformatore is working. What arrives at the table as something
-unwanted can leave the bench as something made — cut, combined,
-repainted, reassembled — carried from there into Act Two rather than
-staying on the blanket. Nobody is required to watch this happen. The
-table doesn't need the bench, and a visitor who never looks its way
-has still had the whole of Act One.*
+Alongside the mats , at its own workbench, a **TRANSFORMER** is working. What arrives at the mat as something unwanted can leave the workbench as something made r — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
 
 *The performance here is invisible to itself. This is correct.
 Nothing should be forced into visibility before its moment.*
-
-*(All parties exit, each carrying something changed.)*
 
 ---
 
 ## ACT TWO — THE ART
 
-*Setting: the same kind of space, opened up more widely. More than
+**Setting:** the same kind of space, opened up more widely. More than
 two people present. No price anywhere — not fixed, not suggested,
-not implied by convention.*
+not implied by convention.
 
 *The set-up changes here — the third rule becomes visible. Where
-Act One's table held objects together, ordinary, Act Two separates
+Act One's mats held objects together, ordinary, Act Two separates
 them — framed pictures on easels, sculptures and objects raised on
 plinths, each with its own space. No label explains it. None is
 needed. The isolation itself is the signal — the same visual grammar
@@ -150,15 +133,12 @@ a gallery uses, borrowed here with no gallery behind it. No one has
 curated what sits on the plinth. The plinth alone does what a
 curator's judgement would otherwise do.*
 
-**The vision, in action.** This is the act that makes the idea
+**The vision, in action.** This is the act that makes the performance 
 visible as itself, not just as a market. Something is offered;
 something is offered in return; no money passes between the
 parties.
 
-*Where Il Trasformatore has been working, the act doesn't open
-gradually — it turns on a single, unmistakable moment: the last
-piece leaves the bench and joins the others on their plinths.
-Nothing before that moment is for exchange, however finished it
+*Act Two opens when the last artpiece leaves the workbench and joins the others on their plinths. Nothing before that moment is for exchange, however finished it
 looks. That moment is the clearest signal of the day that something
 has shifted.*
 
@@ -167,17 +147,10 @@ This is when recognition can surface: both parties understanding,
 even faintly, that what's happening isn't an ordinary transaction.
 Nothing needs to be said aloud. Something might be.*
 
-*[Optional, unwritten, spoken only if it arises naturally: an
-acknowledgement — a nod, a word, a glance exchanged that says: we
-both know what this is.]*
-
-The aspetta-tori watch. Before the act ends, some of them will move
+The **aspetta-tori** watch. Before the act ends, some of them will move
 straight from watching into offering — becoming, for as long as the
 exchange lasts, THE BARTERER, offering something of their own into
 an exchange they were, a moment before, only observing.
-
-*(All parties exit, carrying with them something they hadn't
-brought.)*
 
 ---
 
@@ -190,22 +163,14 @@ nothing.*
 *The act opens when the board is mounted on the side of the truck —
 no announcement, no words. At the top, hand-painted, in the same
 lettering you'd use for a shop sign: **OFFERTE E FAVORI**
-("Offers and Favours"). Below, smaller: *written today in chalk,
-delivered at the next prova*. That's all that's painted —
-permanent, essential, with no explanation of why. Beside it, already
-written in chalk, a first example, clearly marked as such:*
+("Offers and Favours"). That's all that's painted —
+permanent, essential, with no explanation of why. Below it, written  in chalk by the **REMEMBERANCER**, is the first example, clearly marked as such. This is deliberate: the board is never in the hands of either party to what it records.*
 
 > *EXAMPLE*
 > *Maria offers Luca: a basket of lemons, by the next prova.*
-> *Recorded by the Remembrancer.*
 
 *Nothing more is needed. Whoever looks sees the shape to copy
-straight away — who, what, by when, recorded by whom — with no one
-having to explain it aloud.*
-
-**Low threshold — the lowest of the three.** This act asks only for
-words. No object is needed, no money, no card, to take part — only
-the willingness to commit to something not yet done.
+straight away — who, what, by when, — with no one having to explain it aloud.*
 
 THE PROMISOR, having nothing to exchange, offers a promise instead
 — addressed to THE PROMISEE, someone specific, not to whoever
@@ -216,13 +181,9 @@ whatever the two parties agree. Unlike Act One's giving, this isn't
 anonymous: a promise needs a named person on both ends, and a
 public record, for it to carry any weight at all.
 
-*Nothing is handed over to either party; the promise is held by the
-community that witnesses it, not by whoever made it or whoever
-receives it. It belongs to whoever is in the piazza.*
-
-The Remembrancer — not THE PROMISOR, not THE PROMISEE — is the one
-who chalks each promise onto the board. This is deliberate: the
-board is never in the hands of either party to what it records.
+**Low threshold — the lowest of the three.** This act asks only for
+words. No object is needed, no money, no card, to take part — only
+the willingness to commit to something not yet done.
 
 *The board isn't wiped clean the moment a promise lands on it — it
 stays open for as many promises as the closing hour brings. At the
@@ -243,12 +204,8 @@ prova arrives.*
 
 **The Remembrancer decides when Act Three ends** — their call, no
 fixed timeframe, no one else's to make. When it's time, they ring a
-bell: the day's second and last deliberate audible signal, the toast
-being the first and only spoken line. The bell is what turns the
+bell: the day's second and last deliberate signal. The bell is what turns the
 page to Act Four.
-
-*(No exit, not fully. Something is left behind — said, witnessed,
-unfinished.)*
 
 ---
 
@@ -258,17 +215,19 @@ unfinished.)*
 bell sounds. No preparation is needed — it has already happened,
 quietly, alongside everything else.*
 
-A small bar: one chiller tap, one size of glass. A barman fills each
+A small bar: one chiller tap, one size of glass. The **BARMAN** fills each
 glass as people gather. For rehearsals, the tap pours cold water,
 not beer — this keeps the toast open to everyone present, children
 included.
 
-Once everyone holds a filled glass, the barman offers the toast —
+Once everyone holds a filled glass, the **BARMAN** offers the toast —
 the only performed vocal line in the entire day:
 
-> *"Saludu e Trigu. A kent'annos."*
+> *"Saludu e Trigu.
 
-The crowd repeats it back.
+The crowd follow with:
+
+> A kent'annos."*
 
 For the adults, the barman then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
