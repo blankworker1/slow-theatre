@@ -66,7 +66,7 @@ This cycle — rise, collect, set up, no announcement — repeats at three scale
 
 **Threshold:** not a gradual fill, but a hard cut — the final artist finishes their piece and joins the other artists, all now present together in the Gallery. This gathering of all artists in one place is the clearest signal of the day that something has shifted.
 
-- Aspettatori approach with the barter item they held back specifically for this.
+- Aspetta-tori approach with the barter item they held back specifically for this.
 - Pieces are discussed. Sometimes two aspetta-tori offer different objects for the same piece — the first real moment of scarcity and choice in the day.
 - The artist (as **Producer** of their own piece) decides. This authority is real, and specific to the piece they made — the one place in the structure where a performer exercises deliberate judgement over aspetta-tori.
 - No one leaves empty-handed by design: an unsuccessful barter simply redirects — to another piece, or to another aspetta-tore, later in the day.
@@ -91,10 +91,10 @@ Act 3 is not a separate register so much as the day's escape valve: for anyone w
 ## Act 4 - The Toast / Final Curtain 
 
 - Triggered by the Remembrancer's bell — the day's clearest, and only audible, cue.
-- A small bar: one chiller tap, one size of glass. The Barrista fills each glass as people gather.
+- A small bar: one chiller tap, one size of glass. The Barista fills each glass as people gather.
 - For rehearsals, the tap pours cold water, not beer — this keeps the toast open to everyone present, children included.
-- Once everyone holds a filled glass, the Barrista offers the toast — the only performed vocal line in the entire day: *"Saludu e Trigu."* The crowd follow with: *"A kent'annos."*
-- For the adults, the Barrista then passes among the crowd offering to top up their glass with wine — local red, or malvasia spumante on special days.
+- Once everyone holds a filled glass, the Barista offers the toast — the only performed vocal line in the entire day: *"Saludu e Trigu."* The crowd follow with: *"A kent'annos."*
+- For the adults, the Barista then passes among the crowd offering to top up their glass with wine — local red, or malvasia spumante on special days.
 - That is the end of the performance. No further signal, no formal curtain.
 - The drinks ceremony fully dissolves the line between performers and spectators.
 - A performer may leave unnoticed — closure belongs to whoever stays, not an obligation on whoever leaves.
@@ -116,7 +116,7 @@ The day should feel like nothing was planned. Achieving that requires real plann
 
 **What stays uncounted (elastic by nature)**
 - Lo Spuntino's shared table — always open, regardless of numbers
-- Aspettatori themselves — no cap, no registration
+- Aspetta-tori themselves — no cap, no registration
 - Barter and gift items brought on the day
 
 **Booking mechanics**
