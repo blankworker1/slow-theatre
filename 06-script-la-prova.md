@@ -20,8 +20,8 @@ performance.
 ---
 
 ## CAST OF ROLES
-*(not people — roles, taken up and set down freely, often by the
-same person over the course of one performance)*
+
+*Roles, taken up and set down freely, often by the same person over the course of one performance*
 
 **The four frames — anyone may pass through any of these in a single afternoon:**
 
@@ -65,8 +65,6 @@ not a spectator merely watching, but someone in a waiting that's
 already coiled toward becoming action, without anyone inviting it.
 Kept untranslated here, the way "prova" is kept untranslated at the
 end — no English equivalent lands the same way.*
-
-No performer is bound to only one of these roles, with no boundaries.
 
 ---
 
