@@ -1,4 +1,4 @@
-# La Prova: Registers
+# La Prova - Registers
 
 *Private working document. Not for participants, not for publication. This is the score — the thing that lets one person hold the whole composition in view, without conducting it.*
 
