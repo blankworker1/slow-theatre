@@ -34,7 +34,7 @@ performance.
 
 **Fixed roles named for a person, not a frame — present throughout, not passed between hands:**
 
-- **REMEMBERANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
+- **REMBERANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
 are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
 
 - **TRANSFORMER** — integral to every performance, present from the
@@ -164,7 +164,7 @@ nothing.*
 no announcement, no words. At the top, hand-painted, in the same
 lettering you'd use for a shop sign: **OFFERTE E FAVORI**
 ("Offers and Favours"). That's all that's painted —
-permanent, essential, with no explanation of why. Below it, written  in chalk by the **REMEMBERANCER**, is the first example, clearly marked as such. This is deliberate: the board is never in the hands of either party to what it records.*
+permanent, essential, with no explanation of why. Below it, written  in chalk by the **REMBRANCER**, is the first example, clearly marked as such. This is deliberate: the board is never in the hands of either party to what it records.*
 
 > *EXAMPLE*
 > *Maria offers Luca: a basket of lemons, by the next prova.*
@@ -192,7 +192,7 @@ need to survive the days between one show and the next, only the
 photograph does. A promise is cancelled by delivery, not by the
 passing of time.*
 
-The aspetta-tori stay present, enforcing nothing — only watching.
+The **aspetta-tori** stay present, enforcing nothing — only watching.
 No document changes hands and no one signs anything; the
 Remembrancer's photograph, taken before the board is put away, is
 the record from the very first promise made.
@@ -223,11 +223,11 @@ included.
 Once everyone holds a filled glass, the **BARMAN** offers the toast —
 the only performed vocal line in the entire day:
 
-> *"Saludu e Trigu.
+> *"Saludu e Trigu."
 
 The crowd follow with:
 
-> A kent'annos."*
+> "A kent'annos."*
 
 For the adults, the barman then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
@@ -244,10 +244,8 @@ it.*
 
 *Note: the toast closes the roles, not the promises. Whatever was
 written on the board in Act Three stays open even after the last
-glass.*
-
-*(No fixed exit. The evening ends when the last person leaves — and
-no one marks when.)*
+glass.No fixed exit. The evening ends when the last person leaves — and
+no one marks when.*
 
 ---
 
