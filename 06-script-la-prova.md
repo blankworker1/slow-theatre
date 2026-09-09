@@ -243,7 +243,7 @@ it.*
 
 *Note: the toast closes the roles, not the promises. Whatever was
 written on the board in Act Three stays open even after the last
-glass.No fixed exit. The evening ends when the last person leaves — and
+glass. No fixed exit. The evening ends when the last person leaves — and
 no one marks when.*
 
 ---
