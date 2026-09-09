@@ -58,7 +58,7 @@ qualifies. You press "Fork," and you now have your own Slow Theatre archive:
 ```
 /protocol/          — the acts, as received. Yours to translate and adapt.
 /scripts/            — La Prova, and whatever else your Node performs.
-/roles/              — Remembrancer, Il Commerciante, aspetta-tori, and others.
+/roles/              — Remembrancer, Il Trasformatore, La Sarta, Il Commerciante, aspetta-tori, and others.
 /remembrancer-log/   — empty when you fork it. This is what your Node fills in.
 /local/              — your own adaptations: translations, local law, local names.
 ```

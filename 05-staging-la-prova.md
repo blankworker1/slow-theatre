@@ -5,10 +5,10 @@ Node runs the first Slow Theatre performance called La Prova. It is not the scri
 
 ## The Node
 
-![Inside a Node: La Prova, four acts, the Transformation Station, and four satellite roles](./la-prova-staging-diagram.svg)
+![Inside a Node: La Prova, four acts, the Remembrancer, the Transformation Station, and the optional satellite roles](./la-prova-staging-diagram.svg)
 
 Everything inside the dashed **aspetta-tori** boundary — the four acts — is
-the only part critical to a La Prova's function. A performance with no Transformation Station and none of the four roles below is still complete. The Transformation Station and the four roles are optional support, added as the performance grows into handling more material; nothing about La Prova depends on them existing.
+critical to a La Prova's function, and so is the Remembrancer, present throughout and keeping the record from the start. Il Trasformatore and the Transformation Station are different again: integral to every performance, present from the first rehearsal onward, but never load-bearing — a visitor who never notices the Station still gets the whole of Act One, and nothing about La Prova's low threshold depends on it succeeding. La Sarta and Il Commerciante are the genuinely optional layer, added as a performance grows into handling more material; a Node with neither still runs a complete La Prova.
 
 ## From unwanted item to its next life
 
