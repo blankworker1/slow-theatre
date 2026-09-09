@@ -42,7 +42,7 @@ performance.
 - **IL TRASFORMATORE** — integral to every performance, present from the
   start, but never load-bearing: the artists who transform the gifted objects in Act   One into artworks displayed in the Gallery in Act Two. The work bench                (Transformation Station) is there from the start of the performance, not an add-on   introduced as a performance scales up.
 
-- **IL BARRISTA** — present in Act Three. The Barman prepares and serves the drinks    during Act Four - The Toast. 
+- **IL BARISTA** — present in Act Three. The Barman prepares and serves the drinks    during Act Four - The Toast. 
 
 
 **Further satellite roles — optional, added as a performance grows
@@ -214,12 +214,12 @@ page to Act Four.
 bell sounds. No preparation is needed — it has already happened,
 quietly, alongside everything else.*
 
-A small bar: one chiller tap, one size of glass. The Barrista fills each
+A small bar: one chiller tap, one size of glass. The Barista fills each
 glass as people gather. For rehearsals, the tap pours cold water,
 not beer — this keeps the toast open to everyone present, children
 included.
 
-Once everyone holds a filled glass, the Barrista offers the toast —
+Once everyone holds a filled glass, the Barista offers the toast —
 the only performed vocal line in the entire day:
 
 > *"Saludu e Trigu."*
@@ -228,7 +228,7 @@ The crowd follow with:
 
 > *"A kent'annos."*
 
-For the adults, the Barrista then passes among the crowd offering to
+For the adults, the Barista then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
 special days.
 
