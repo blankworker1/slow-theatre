@@ -25,41 +25,30 @@ same person over the course of one performance)*
 
 **The four frames — anyone may pass through any of these in a single afternoon:**
 
-- **THE DONOR** — currently holds something; lets it go freely, in
-  Act One, expecting nothing back
-- **THE BARTERER** — in Act Two, offers something into an exchange
+- **THE DONOR** — in Act One, a person who offers objects for free: without payment or exchange 
+- **THE BARTERER** — in Act Two, a person who offers something in exchange
   and receives something in return; barter runs both ways at once,
-  so one name covers both sides of it
-- **THE PROMISOR** — offers a promise instead of an object, in Act
-  Three; addressed to someone specific, not to whoever happens to be
-  there
-- **THE PROMISEE** — the person a promise is made to; named, not
-  anonymous the way Act One's taking is
+  so one name covers both sides
+- **THE PROMISOR** — in Act Three, someone who offers a promise not an object;         addressed to someone specific, named on the chalk board 
+- **THE PROMISEE** — in Act Three, the person a promise is made to; named on the chalk board 
 
-**One role named for a person, not a frame — present throughout, not passed between hands:**
+**Fixed roles named for a person, not a frame — present throughout, not passed between hands:**
 
-- **The Remembrancer** — present across the whole performance, not
-  just Act Three: keeps the day's own record from the start, is the
-  hand that chalks each promise onto the board, and calls the bell
-  that closes Act Three. The Remembrancer's presence and photograph
-  are the performance's record — no separate witness role is needed
-  alongside it. Full role description in `roles/remembrancer.md`.
+- **REMEMBERANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
+are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
 
-**Il Trasformatore — integral to every performance, present from the
-start, but never load-bearing:** the bench is there from Act One
-onward in every Node's La Prova, not an add-on introduced as a
-performance scales up. It doesn't need to succeed, or even be
-noticed, for Act One's low threshold to hold.
+- **TRANSFORMER** — integral to every performance, present from the
+start, but never load-bearing: the artists who transform the gifted objects in Act 1 into artworks displayed in the Gallery in Act 2. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
+performance scales up. 
 
-- **Il Trasformatore** — works at the Transformation Station during
-  Act One, turning gifted objects into what enters Act Two as art
 
 **Further satellite roles — optional, added as a performance grows
 into handling more material:**
 
-- **La Sarta** — mends and alters fabric and clothing specifically,
+- **SEAMSTRESS** — mends and alters fabric and clothing specifically,
   feeding either Act Two or Il Commerciante depending on the piece
-- **Il Commerciante** — takes functional, resaleable items off-stage
+  
+- **TRADER** — takes functional, resaleable items off-stage
   entirely, into an ordinary secondhand trade outside the
   performance's gift-and-barter logic
   
@@ -77,9 +66,7 @@ already coiled toward becoming action, without anyone inviting it.
 Kept untranslated here, the way "prova" is kept untranslated at the
 end — no English equivalent lands the same way.*
 
-No performer is bound to only one of these roles. The same person
-can open the performance as THE DONOR and close it among the
-aspetta-tori, watching someone else's promise be made.
+No performer is bound to only one of these roles, with no boundaries.
 
 ---
 
