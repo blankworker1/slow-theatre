@@ -91,7 +91,7 @@ il rilascio del teatro tradizionale.
 imparare né nulla da diventare. Porti il tuo vero nome, le tue vere
 ragioni, la tua vera riluttanza o il tuo vero entusiasmo. Se stai
 scambiando qualcosa, è davvero tuo, e davvero vuoi separartene —
-oppure no. I ruoli — venditore, testimone, artista — sono cornici
+oppure no. I ruoli — donatore, permutante, promittente — sono cornici
 messe attorno a una persona reale, non maschere che la sostituiscono.
 
 **La premessa è costruita apposta, e va bene saperlo.** A
