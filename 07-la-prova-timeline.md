@@ -46,7 +46,7 @@ Unloaded and set up together, quietly, without show:
 - **The workbench** — for the Trasformatore/artists
 - **The Gallery** — pedestals and easels, positioned a short walk from the workbench, in a distinct zone. Empty to start.
 
-### L'Usato
+### L'Usato / Gifting 
 - Mat-owners, agreed beforehand via WhatsApp, are themselves eaters. Each finishes eating in their own time, collects a box of objects from their car, and lays it out on their mat. No hurry, no coordination beyond the earlier headcount.
 - Objects on a mat belong to that owner. The owner narrates, discusses, and gifts them — no payment, no exchange. This is the first rule change from Lo Spuntino: anonymous gift becomes named, discussed gift.
 
@@ -73,7 +73,7 @@ This cycle — rise, collect, set up, no announcement — repeats at three scale
 
 ---
 
-## Act 3 — The Lavagna / Inclusivity Layer
+## Act 3 — The Promise / Inclusivity Layer
 
 Act 3 is not a separate register so much as the day's escape valve: for anyone without the right object in hand, or for anything too large to carry — a favour, a skill, lodging — the blackboard lets the exchange still happen.
 
@@ -88,7 +88,7 @@ Act 3 is not a separate register so much as the day's escape valve: for anyone w
 
 ---
 
-## Il Brindisi
+## Act 4 - The Toast / Final Curtain 
 
 - Triggered by the Remembrancer's bell — the day's clearest, and only audible, cue.
 - A small bar: one chiller tap, one size of glass. The barman fills each glass as people gather.
