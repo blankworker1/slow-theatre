@@ -54,8 +54,7 @@ into handling more material:**
   entirely, into an ordinary secondhand trade outside the
   performance's gift-and-barter logic
   
-  Full descriptions of all three: `roles/il-trasformatore.md`,
-  `roles/la-sarta.md`, `roles/il-commerciante.md`.
+  Full descriptions of roles in `roles/la-sarta.md`, `roles/il-commerciante.md`.
 
 - **aspetta-tori** — the public who are present, watching; not passive. Their
   presence is what gives a promise meaning, and its watching is already loaded,
