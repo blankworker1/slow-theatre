@@ -214,12 +214,12 @@ page to Act Four.
 bell sounds. No preparation is needed — it has already happened,
 quietly, alongside everything else.*
 
-A small bar: one chiller tap, one size of glass. The **BARRISTA** fills each
+A small bar: one chiller tap, one size of glass. The Barrista fills each
 glass as people gather. For rehearsals, the tap pours cold water,
 not beer — this keeps the toast open to everyone present, children
 included.
 
-Once everyone holds a filled glass, the **BARRISTA** offers the toast —
+Once everyone holds a filled glass, the Barrista offers the toast —
 the only performed vocal line in the entire day:
 
 > *"Saludu e Trigu."*
@@ -228,7 +228,7 @@ The crowd follow with:
 
 > *"A kent'annos."*
 
-For the adults, the **BARRISTA** then passes among the crowd offering to
+For the adults, the Barrista then passes among the crowd offering to
 top up their glass with wine — local red, or malvasia spumante on
 special days.
 
