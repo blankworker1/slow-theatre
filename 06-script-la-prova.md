@@ -111,7 +111,7 @@ in return — not money, not a trade, not even thanks. Whoever takes
 it decides, privately, what it's for: useful as it is, material for a **TRANSFORMER**
 , used to make an artwork for Act Two, or something to pass on elsewhere.
 
-Alongside the mats , at its own workbench, a **TRANSFORMER** is working. What arrives at the mat as something unwanted can leave the workbench as something made r — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
+Alongside the mats , at its own workbench, a **TRANSFORMER** is working. What arrives at the mat as something unwanted can leave the workbench as something made — cut, combined, repainted, reassembled — to be displayed on a pedestal in the Gallery, and exchanged in Act Two. Nobody is required to watch this happen.
 
 *The performance here is invisible to itself. This is correct.
 Nothing should be forced into visibility before its moment.*
