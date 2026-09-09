@@ -115,7 +115,7 @@ davanti al furgone.
 1. **[`01-manifesto.md`](ITA/01-manifesto.md)** — *Il concetto.*
    Cos'è lo Slow Theatre e perché, scritto per essere immediatamente
    comprensibile a chiunque già conosca lo Slow Food. Adatto come
-   lettura autonoma, o da distribuire durante un pasto Slow Food.
+   lettura autonoma, o da distribuire durante un spuntino in campagna.
 
 2. **[`02-faq.md`](ITA/02-faq.md)** — *Gli aspetti pratici.*
    Chi può partecipare, quando avviene, chi paga cosa, se serve
