@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Slow Theatre — documenti</title>
+<meta name="description" content="Slow Theatre: una filosofia della performance nata dal movimento Slow Food. Leggi i documenti principali.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #ece5d3;
+    --card: #f6f1e4;
+    --ink: #211d16;
+    --ink-soft: #5c5644;
+    --gold: #b5872a;
+    --rule: #c9bd9a;
+  }
+
+  * { box-sizing: border-box; }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .hero { animation: rise 0.6s ease-out both; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+  }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Public Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 17px;
+    line-height: 1.55;
+  }
+
+  a { color: var(--ink); text-underline-offset: 3px; text-decoration-color: var(--gold); }
+  a:hover { text-decoration-color: var(--ink); }
+  a:focus-visible, button:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 3px;
+  }
+
+  .wrap {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 5rem;
+  }
+
+  .hero {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+  }
+
+  .hero img {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  h1 {
+    font-family: 'Zilla Slab', Georgia, serif;
+    font-weight: 700;
+    font-size: 2.1rem;
+    margin: 0 0 0.2rem;
+    letter-spacing: 0.01em;
+  }
+
+  .tagline {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 1rem;
+  }
+
+  .lede {
+    max-width: 60ch;
+    color: var(--ink-soft);
+    margin-bottom: 3rem;
+  }
+
+  .lede a { color: var(--ink); }
+
+  .section {
+    border-top: 1px solid var(--rule);
+    padding-top: 2.5rem;
+  }
+
+  h2 {
+    font-family: 'Zilla Slab', Georgia, serif;
+    font-weight: 500;
+    font-size: 1.3rem;
+    margin: 0 0 1.1rem;
+  }
+
+  ol.docs {
+    list-style: none;
+    counter-reset: doc;
+    margin: 0 0 2.2rem;
+    padding: 0;
+  }
+
+  ol.docs li {
+    counter-increment: doc;
+    display: flex;
+    gap: 0.9rem;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  ol.docs li:first-child { border-top: 1px solid var(--rule); }
+
+  ol.docs li::before {
+    content: counter(doc);
+    font-family: 'Zilla Slab', Georgia, serif;
+    font-weight: 700;
+    color: var(--gold);
+    font-size: 1.1rem;
+    line-height: 1.5;
+    flex-shrink: 0;
+    width: 1.2rem;
+  }
+
+  .doc-title {
+    display: block;
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .doc-title:hover { text-decoration: underline; text-decoration-color: var(--gold); }
+
+  .doc-desc {
+    display: block;
+    color: var(--ink-soft);
+    font-size: 0.94rem;
+    margin-top: 0.15rem;
+  }
+
+  .working {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    padding: 1.1rem 1.2rem;
+  }
+
+  .working h2 { font-size: 1.05rem; margin-bottom: 0.7rem; }
+
+  .working a {
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .working a:hover { text-decoration: underline; text-decoration-color: var(--gold); }
+
+  .working p {
+    margin: 0.3rem 0 0;
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+  }
+
+  footer {
+    margin-top: 3.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    color: var(--ink-soft);
+    font-size: 0.92rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.5rem;
+  }
+
+  footer a { color: var(--ink-soft); }
+
+  .lang-switch {
+    margin-top: 1rem;
+    font-size: 0.92rem;
+  }
+
+  .lang-switch a { color: var(--ink); font-weight: 600; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+
+    <div class="hero">
+      <img src="artwork/logo.jpg" alt="Slow Theatre">
+      <div>
+        <h1>Slow Theatre</h1>
+        <p class="tagline">Buono, Pulito, Giusto.</p>
+      </div>
+    </div>
+
+    <p class="lede">
+      Una filosofia della performance nata dal movimento Slow Food — teatro paziente, locale, ricorrente, senza marchio e senza controllori.
+      I documenti qui sotto sono pensati per essere letti in ordine.
+      Tutto il resto nel <a href="https://github.com/blankworker1/slow-theatre">repository</a> è ancora un lavoro in corso.
+    </p>
+
+    <div class="section">
+      <h2>Ordine di lettura</h2>
+      <ol class="docs">
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/01-manifesto.md">Manifesto</a>
+            <span class="doc-desc">Cos'è lo Slow Theatre, e perché.</span>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/02-faq.md">FAQ</a>
+            <span class="doc-desc">Chi può partecipare, e come.</span>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/03-roleplay.md">Roleplay</a>
+            <span class="doc-desc">Cosa significa "recitare" qui.</span>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/04-manuale.md">Manuale</a>
+            <span class="doc-desc">Come funziona la rete dei Nodi.</span>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/05-allestimento-la-prova.md">Allestimento</a>
+            <span class="doc-desc">La disposizione pratica di una prova.</span>
+          </div>
+        </li>
+        <li>
+          <div>
+            <a class="doc-title" href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/06-copione-la-prova.md">Copione</a>
+            <span class="doc-desc">La Prova stessa — la versione di Bosa.</span>
+          </div>
+        </li>
+      </ol>
+
+      <div class="working">
+        <h2>Documento di lavoro</h2>
+        <a href="https://github.com/blankworker1/slow-theatre/blob/main/ITA/07-cronologia-la-prova.md">Cronologia</a>
+        <p>Prenotazioni e distinta di carico — non visibile sul posto.</p>
+      </div>
+    </div>
+
+    <footer>
+      <span>Lo Slow Theatre funziona per Nodi — fai un fork del repository per iniziare il tuo.</span>
+      <a href="https://github.com/blankworker1/slow-theatre/discussions">Domande e feedback →</a>
+    </footer>
+
+    <p class="lang-switch"><a href="en.html">Read this page in English →</a></p>
+
+  </div>
+</body>
+</html>
