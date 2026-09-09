@@ -38,8 +38,10 @@ performance.
 are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
 
 - **TRANSFORMER** — integral to every performance, present from the
-start, but never load-bearing: the artists who transform the gifted objects in Act 1 into artworks displayed in the Gallery in Act 2. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
-performance scales up. 
+start, but never load-bearing: the artists who transform the gifted objects in Act 1 into artworks displayed in the Gallery in Act Two. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
+performance scales up.
+
+- **BARMAN** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
 
 
 **Further satellite roles — optional, added as a performance grows
