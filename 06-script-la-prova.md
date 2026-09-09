@@ -25,25 +25,24 @@ performance.
 
 **The four frames — anyone may pass through any of these in a single afternoon:**
 
-- **THE DONOR** — in Act One, a person who offers objects for free: without payment or exchange 
+- **THE DONOR** — in Act One, a person who offers objects for free: without payment    or exchange 
 - **THE BARTERER** — in Act Two, a person who offers something in exchange
   and receives something in return; barter runs both ways at once,
   so one name covers both sides
 - **THE PROMISOR** — in Act Three, someone who offers a promise not an object;         addressed to someone specific, named on the chalk board 
-- **THE PROMISEE** — in Act Three, the person a promise is made to; named on the chalk board 
+- **THE PROMISEE** — in Act Three, the person a promise is made to; named on the       chalk board 
 
 **Fixed roles named for a person, not a frame — present throughout, not passed between hands:**
 
-- **REMEMBRANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
-are the performance's record — no separate witness role is needed alongside it.
+- **REMEMBRANCER** — present across the whole performance: keeps the day's own         record from the start, is the hand that chalks each promise onto the board, and      calls the bell that closes Act Three. The Remembrancer's presence and photograph
+  are the performance's record — no separate witness role is needed alongside it.
 
-Full role description in `roles/remembrancer.md`.
+  Full role description in `roles/remembrancer.md`.
 
 - **IL TRASFORMATORE** — integral to every performance, present from the
-start, but never load-bearing: the artists who transform the gifted objects in Act One into artworks displayed in the Gallery in Act Two. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
-performance scales up.
+  start, but never load-bearing: the artists who transform the gifted objects in Act   One into artworks displayed in the Gallery in Act Two. The work bench                (Transformation Station) is there from the start of the performance, not an add-on   introduced as a performance scales up.
 
-- **IL BARRISTA** — present in Act Three. The Barman prepares and serves the drinks during Act Four - The Toast. 
+- **IL BARRISTA** — present in Act Three. The Barman prepares and serves the drinks    during Act Four - The Toast. 
 
 
 **Further satellite roles — optional, added as a performance grows
