@@ -35,7 +35,9 @@ performance.
 **Fixed roles named for a person, not a frame — present throughout, not passed between hands:**
 
 - **REMEMBRANCER** — present across the whole performance: keeps the day's own record from the start, is the hand that chalks each promise onto the board, and calls the bell that closes Act Three. The Remembrancer's presence and photograph
-are the performance's record — no separate witness role is needed alongside it. Full role description in `roles/remembrancer.md`.
+are the performance's record — no separate witness role is needed alongside it.
+
+Full role description in `roles/remembrancer.md`.
 
 - **IL TRASFORMATORE** — integral to every performance, present from the
 start, but never load-bearing: the artists who transform the gifted objects in Act One into artworks displayed in the Gallery in Act Two. The work bench (Transformation Station) is there from the start of the performance, not an add-on introduced as a
