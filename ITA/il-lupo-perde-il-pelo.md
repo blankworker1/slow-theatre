@@ -36,7 +36,7 @@ Gli attori non fanno eccezione. La Prova non chiede loro di *rappresentare* l'as
 
 > Il denaro è un vizio, non un bisogno. Da qualche parte in quest'ora, la tua mano vorrà cercare un prezzo, una moneta, un "quanto costa." È solo il vizio che parla — la memoria muscolare di ogni transazione che hai mai fatto in vita tua. La scena non ti chiede di resistere in modo plateale. Ti chiede solo di... non allungare la mano. Lascia che l'impulso passi, come la voglia di controllare il telefono.
 
-## Per gli aspettatori
+## Per gli aspetta-tori 
 
 > Sei in un luogo senza prezzi. Per un attimo potrebbe sembrarti strano — come cercarti il telefono in tasca mentre lo tieni già in mano. Quello è il vizio del denaro, ed è l'unica cosa che qui non è ammessa. Tutto il resto — parlare, scambiare, donare, chiedere — funziona esattamente come sempre.
 
