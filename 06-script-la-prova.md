@@ -19,9 +19,13 @@ example promise — are Bosa's own, and are exactly what a new Node
 would replace with something local to them.
 
 There are no actors and no lines to perform: the people you see are
-themselves, not characters. La Prova takes place outdoors, using a
-truck that's part of the set — a prop, and the centrepiece of the
-performance.
+themselves, not characters. La Prova doesn't just depict life
+without money â€” it depicts life without the two things people
+normally use to avoid being fully, personally answerable: currency,
+and character.
+
+La Prova takes place outdoors, using a truck that's part of the set — 
+a prop, and the centrepiece of the performance.
 
 ---
 
