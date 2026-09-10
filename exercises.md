@@ -1,4 +1,4 @@
-# Slow Theatre — Exercises
+# Exercises
 
 *A growing companion to the philosophical documents — not explanations
 of the structure, but small, optional, bounded rehearsals of one
