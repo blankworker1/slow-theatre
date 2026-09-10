@@ -1,4 +1,4 @@
-# TAZ Tools
+# BosaTAZ Tools
 
 *The digital layer of Slow Theatre*
 
