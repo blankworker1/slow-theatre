@@ -1,12 +1,7 @@
 # BosaTAZ — Fiscal
 
-*Part of the TAZ folder. Bosa's own worked instance of the fiscal
-boundary named in bosataz-boundaries.md — grounded specifically in
-Italian civil law, not a claim about any other Node's legal
-footing. This is a working reference, not legal advice: before
-anything here is relied on for a formal ZAT application or a PPS
-proposal, it needs review by someone actually qualified in Italian
-law, not just a document that's been reasoned through carefully.*
+*Bosa's own worked instance of the fiscal boundary named in bosataz-boundaries.md — grounded specifically in Italian civil law, not a claim about any other Node's legal
+footing. This is a working reference, not legal advice: before anything here is relied on for a formal ZAT application or a PPS proposal, it needs review by someone actually qualified in Italian law, not just a document that's been reasoned through carefully.*
 
 ## The legal basis
 
