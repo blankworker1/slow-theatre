@@ -1,4 +1,4 @@
-# BosaTAZ — Build Handover
+# BosaTAZ — Tools Build Handover
 
 *A short, build-oriented summary. Reasoning lives in
 bosataz-explainer.md — this document is what to build, not why.
