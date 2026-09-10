@@ -1,9 +1,6 @@
 # BosaTAZ — Boundaries
 
-*A growing companion, alongside Exercises — not a fixed list, but a
-first account of what holds a zone's edges in place. Every zone has
-boundaries somewhere; this document is where they're named, one at
-a time, as they're identified.*
+*A growing companion — not a fixed list, but anfirst account of what holds a zone's edges in place. Every zone has boundaries somewhere; this document is where they're named, one at a time, as they're identified.*
 
 ## Why boundaries need naming at all
 
