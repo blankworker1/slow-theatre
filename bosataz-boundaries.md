@@ -1,4 +1,4 @@
-# Slow Theatre — Boundaries
+# BosaTAZ — Boundaries
 
 *A growing companion, alongside Exercises — not a fixed list, but a
 first account of what holds a zone's edges in place. Every zone has
