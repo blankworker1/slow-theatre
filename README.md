@@ -1,6 +1,6 @@
 # Slow Theatre
 
-Slow Theatre is a performance philosophy grown from the Slow Food
+Slow Theatre is a performance philosophy inspired by the Slow Food
 movement — the same conviction that food should be **Good, Clean,
 and Fair**, applied instead to performance and public participation.
 Where Slow Food opposed the standardization and speed of fast food,
@@ -75,7 +75,7 @@ the idea to standing at the truck.
 
 # Slow Theatre (Versione Italiano)
 
-Lo Slow Theatre è una filosofia della performance nata dal movimento
+Lo Slow Theatre è una filosofia della performance ispirata dal movimento
 Slow Food — la stessa convinzione che il cibo debba essere **Buono,
 Pulito e Giusto**, applicata invece alla performance e alla
 partecipazione pubblica. Dove lo Slow Food si opponeva alla
