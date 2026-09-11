@@ -51,8 +51,7 @@ della performance.
   gesso ogni promessa sulla lavagna, e suona la campana che chiude
   l'Atto Terzo. La presenza del Remembrancer e la sua fotografia
   sono il resoconto della performance — non serve un ruolo separato
-  di testimone accanto a esso. Descrizione completa del ruolo in
-  `roles/remembrancer.md`.
+  di testimone accanto a esso.
 
 - **IL TRASFORMATORE** — parte integrante di ogni performance,
   presente fin dall'inizio, ma mai indispensabile: l'artigiano che
@@ -74,8 +73,6 @@ della performance.
   oggetti funzionanti e rivendibili, in un ordinario commercio
   dell'usato al di fuori della logica di dono e baratto della
   performance
-
-  Descrizioni complete in `roles/la-sarta.md`, `roles/il-commerciante.md`.
 
 - **aspetta-tori** — il pubblico presente, che osserva; non
   passivo. La loro presenza è ciò che dà significato a una
