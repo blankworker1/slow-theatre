@@ -15,7 +15,7 @@ they're worth naming separately, because each one fails in a
 different way and needs a different kind of attention to stay
 intact.
 
-## The physical boundary
+## The digital boundary
 
 The radius of the signal — the perimeter actually covered by
 BosaTAZ's network. Whoever is inside the signal is inside the zone;
