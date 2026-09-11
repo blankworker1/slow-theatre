@@ -10,7 +10,7 @@ boundaries must be — the manifesto's own question ("what actually
 holds your boundaries up — infrastructure, law, or only people
 choosing to respect them?") is what every Node answers for itself;
 this document is Bosa's answer to it, specific to BosaTAZ and to
-Italian law, not a template to inherit unchanged.
+Italian law, not a template to inherit unchanged.*
 
 ## Why boundaries need naming at all
 
