@@ -47,8 +47,6 @@ a prop, and the centrepiece of the performance.
 - **REMEMBRANCER** — present across the whole performance: keeps the day's own         record from the start, is the hand that chalks each promise onto the board, and      calls the bell that closes Act Three. The Remembrancer's presence and photograph
   are the performance's record — no separate witness role is needed alongside it.
 
-  Full role description in `roles/remembrancer.md`.
-
 - **IL TRASFORMATORE** — integral to every performance, present from the
   start, but never load-bearing: the artists who transform the gifted objects in Act   One into artworks displayed in the Gallery in Act Two. The work bench                (Transformation Station) is there from the start of the performance, not an add-on   introduced as a performance scales up.
 
@@ -64,8 +62,6 @@ into handling more material:**
 - **IL COMMERCIANTE** — takes functional, resaleable items off-stage
   entirely, into an ordinary secondhand trade outside the
   performance's gift-and-barter logic
-  
-  Full descriptions of roles in `roles/la-sarta.md`, `roles/il-commerciante.md`.
 
 - **aspetta-tori** — the public who are present, watching; not passive. Their
   presence is what gives a promise meaning, and its watching is already loaded,
