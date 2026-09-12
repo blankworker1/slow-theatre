@@ -1,4 +1,4 @@
-# Currency and Character
+# Currency and Character pt1
 
 Theatre inherited two devices from the world around it, and has used
 them for so long that neither still looks like a choice.
