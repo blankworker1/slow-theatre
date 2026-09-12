@@ -67,8 +67,7 @@ happens, it looks like this:
 This is the same discipline already applied everywhere else in this
 project — prove the smaller thing first, build the infrastructure once
 there's something real to build it around. BosaTAZ waits on a working
-rehearsal. A formal ZAT event waits on ordinary rehearsals proving
-themselves. This repository split waits on these documents earning that
+rehearsal. This repository split waits on these documents earning that
 next step.
 
 ---
