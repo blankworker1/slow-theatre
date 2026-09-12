@@ -1,4 +1,4 @@
-# Currency and Character II
+# Currency and Character pt2
 
 There is another way to run the same two devices, and it produces
 the opposite result.
