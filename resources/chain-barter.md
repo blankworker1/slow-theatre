@@ -123,7 +123,7 @@ nothing carried over from having once been the chain object. Someone who
 trades their gold for the previous item doesn't inherit any collective
 claim over what they now hold; it's simply theirs, the same as anything
 won in an ordinary Act Two barter. Only what's currently on the plinth is
-held in common. Everything the chain has ever shed along the way already
+held in common. Every object the chain has ever shed along the way
 belongs, fully and unconditionally, to whoever it was traded to.
 
 ## What's deliberately different from the source, summarised
