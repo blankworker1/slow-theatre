@@ -38,9 +38,13 @@ Wherever the local material actually is — a piazza, a street, a room where peo
 
 **How long does it last?**
 
-Depends which part you mean. Food has no arc at all — nobody declares the spuntino open or closed, any more than they would at any ordinary public gathering; it's simply there, unmanaged, for as long as anyone wants it. Music, once it begins, works the same way — nobody tells anyone the evening is over.
+Depends which part you mean. Food has no arc at all — nobody declares the Lo Spuntino open or closed, any more than they would at any ordinary public gathering; it's simply there, unmanaged, for as long as anyone wants it. 
 
-Theatre is genuinely different, and worth being precise about it: it does have a real arc — a beginning, a middle, and an end, moving through four acts of gift, barter, promise, and toast. What's missing isn't the structure, only the clock and the announcement. The truck's arrival starts it with no countdown; the toast ends it with no curtain call. So the honest answer is: the performance lasts as long as it takes to move through its four acts, at whatever pace that day calls for — while the food and the music around it never had a length to begin with.
+Music, once it begins, works the same way — nobody tells anyone the evening is over.
+
+Theatre does have a real arc — a beginning, a middle, and an end, moving through four acts of gift, barter, promise, and toast. What's missing isn't the structure, only the clock and the announcement. The truck's arrival starts it with no countdown; the toast ends it with no curtain call. 
+
+So the honest answer is: the performance lasts as long as it takes to move through its four acts, at whatever pace that day calls for — while the food and the music around it never had a length to begin with.
 
 **Who covers the costs?**
 
