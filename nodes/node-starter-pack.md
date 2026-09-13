@@ -1,4 +1,4 @@
-# First Node Starter Pack
+# Node Starter Pack
 
 *A practical companion, not a new layer of philosophy — everything here is
 already decided elsewhere in the project; this just consolidates it in one
