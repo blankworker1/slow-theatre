@@ -73,4 +73,4 @@ Accretive theatre makes the same claim: each layer, once it's real, is
 complete on its own terms. What comes next is simply what comes next,
 whenever it's actually ready to.
 
-1+1 does not have to equal anything.
+*1+1 does not have to equal anything.*
