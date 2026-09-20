@@ -1,9 +1,5 @@
-# Panem et Circenses
+# PC - Panem et Circenses
 
-*Internal working name only. Never the public title — anyone catching
-the Juvenal reference reads it as pointed commentary on sight, which
-defeats the entire purpose. Public title, below, is deliberately
-unremarkable.*
 
 ## What this is
 
