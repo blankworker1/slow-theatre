@@ -36,6 +36,7 @@ boundaries and protocols governing La Prova — can be read carefully,
 in full, and might still only convey half of what they describe. The
 reading is real, and worth doing properly rather than skimmed. But
 La Prova is built around gift, barter, and promise specifically
-because those are practices, not facts. 
-The documents are trying to explain this in words. They  do not tell you
+because those are practices, not facts.
+
+The documents are trying to explain this in words. They do not tell you
 what it feels like to stand at a table of your own things and actually resist pricing them, until you've done it yourself. The documents are the map. Doing the work is the territory. No map, however complete, is the territory itself.
