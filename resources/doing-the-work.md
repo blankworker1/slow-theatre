@@ -33,12 +33,9 @@ acquired.
 
 Every document behind this one — the manifesto, the essays, the
 boundaries and protocols governing La Prova — can be read carefully,
-in full, and will still only convey half of what they describe. The
+in full, and might still only convey half of what they describe. The
 reading is real, and worth doing properly rather than skimmed. But
 La Prova is built around gift, barter, and promise specifically
-because those are practices, not facts. Reading everything gets you
-the reasoning behind the mental boundary. It does not get you what it
-feels like to stand at a table of your own things and actually resist
-pricing them, until you've done it yourself. The documents are the
-map. Doing the work is the territory, and no map, however complete,
-is the territory itself.
+because those are practices, not facts. 
+The documents are trying to explain this in words. They  do not tell you
+what it feels like to stand at a table of your own things and actually resist pricing them, until you've done it yourself. The documents are the map. Doing the work is the territory. No map, however complete, is the territory itself.
