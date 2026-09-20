@@ -1,14 +1,18 @@
 # Lab Techniques
 
 Chemistry has a plain, four-part shape for how one thing becomes
-another. A **precursor** — raw material, untransformed, holding
-whatever it's ever going to hold before anything happens to it. A
-**catalyst** — present at the reaction, lowering the effort it takes
+another. 
+
+A **precursor** — raw material, untransformed, holding
+whatever it's ever going to hold before anything happens to it. 
+
+A **catalyst** — present at the reaction, lowering the effort it takes
 to happen, and walking away afterward exactly as it arrived, unchanged,
-never appearing in what's produced. A **reaction** — bounded, over
-once it's over, a process rather than a thing. And a **result** — the
-transmuted material, carrying the precursor's history inside it,
-whether or not that history stays visible on the surface.
+never appearing in what's produced. 
+
+A **reaction** — bounded, over once it's over, a process rather than a thing. 
+
+And a **result** — the transmuted material, carrying the precursor's history inside it, whether or not that history stays visible on the surface.
 
 This project didn't set out to run on that shape. It just turns out
 to, at nearly every scale it operates on, once you know to look for
@@ -16,8 +20,8 @@ it.
 
 ## Where it's already running
 
-**At the bench.** An unwanted object is the precursor. Il Trasformatore
-is the catalyst — present at every turn, shaping what passes through
+**At the Transformation Station bench.** An unwanted object is the precursor. 
+Il Trasformatore is the catalyst — present at every turn, shaping what passes through
 without their own hand ending up as the subject of the piece, reusable
 across a hundred turns without ever being used up by one of them.
 Thirty minutes at the Station is the reaction. What leaves on the
@@ -25,7 +29,7 @@ plinth is the result, seams left visible on purpose — the Visual
 Protocol's whole insistence that the precursor's history should stay
 legible in what it became, not erased by the transmutation.
 
-**In the ceremony.** Entropy — genuinely random, formless, good for
+**In the UTXO ceremony.** Entropy — genuinely random, formless, good for
 nothing on its own — is the precursor. The Entropia drum, the
 pill-holder, SeedSigner: catalytic apparatus, none of it appearing in
 the finished key, all of it making the transformation possible. The
@@ -34,7 +38,7 @@ irreversible the way most real transmutations are — nobody runs a key
 backward into its original entropy, the same way nobody unbakes a
 cake.
 
-**In the writing.** A person's own thinking, prior work, and accumulated
+**In the document writing.** A person's own thinking, prior work, and accumulated
 judgment is the precursor — the only material that was ever actually
 theirs to begin with. A conversation is the catalyst: present at the
 reaction, lowering the effort it takes to get from raw thought to
@@ -44,7 +48,7 @@ appearing in the result. What ends up on the page was always the
 precursor's material, structured faster than it would have structured
 itself alone.
 
-**At the scale of the whole protocol.** Zoom out far enough and the
+**At the scale of the whole protocol.** Zoom out far enough and the rehearsal, the 
 acts, the constraints, the roles are themselves a catalyst, running
 at project scale rather than bench scale: present at every rehearsal,
 unchanged by any single one, never itself the result, and genuinely
