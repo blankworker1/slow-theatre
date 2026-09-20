@@ -205,10 +205,13 @@ gesso dal Remembrancer, un primo esempio, chiaramente contrassegnato
 come tale. Questo è deliberato: la lavagna non è mai nelle mani
 dell'una o dell'altra parte di ciò che registra.*
 
-> *ESEMPIO*
+> *ESEMPI*
+> 
 > *Maria offre a Luca: un cesto di limoni, entro la prossima prova.*
+
 > *Marco offre a Giulia: tre ore di aiuto a raccogliere le olive,
 > entro la prossima prova.*
+
 > *Chiara offre a Davide: l'uso del suo trapano, da restituire entro
 > la prossima prova.*
 
