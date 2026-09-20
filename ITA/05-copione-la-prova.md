@@ -207,7 +207,7 @@ dell'una o dell'altra parte di ciò che registra.*
 
 > *ESEMPI*
 
-> *Maria offre a Luca: un cesto di limoni, entro la prossima prova.
+> *Maria offre a Luca: un cesto di limoni, entro la prossima prova.*
 
 > *Marco offre a Giulia: tre ore di aiuto a raccogliere le olive,
 > entro la prossima prova.*
