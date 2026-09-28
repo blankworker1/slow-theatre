@@ -1,3 +1,6 @@
+<p align="center"><img src="assets/slow-theatre-logo.svg" alt="Slow Theatre" width="220"></p>
+
+
 # Slow Theatre
 
 Slow Theatre is a performance philosophy inspired by the Slow Food
